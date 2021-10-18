@@ -1,5 +1,4 @@
 
-
 ##Library
 
 library(installr)
@@ -459,63 +458,7 @@ permutest(betadisper(dis, dat_total_debris_env$Depth_m))
 #Compare among-group composition by comparing within group distance to centroids to across distance to centroids
 adon <- adonis(dat_total_debris_obs~Meso_zone3*Complexity_3pt,data=dat_total_debris_env,method='bray',permutations = 9999)
 adon1 <- adonis(dat_total_debris_obs~Depth_m*Complexity_3pt,data=dat_total_debris_env,method='bray',permutations = 9999)
-
-levels(dat_total_debris_env$Complexity_3pt)
-
-coef <- coefficients(adon)["(Intercept)",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p33 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with high complexity")
-
-coef <- coefficients(adon)["Complexity_3pt1",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p32 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with intermediate complexity")
-
-
-coef <- coefficients(adon)["Complexity_3pt2",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p31 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with low complexity")
-
-coef <- coefficients(adon)["Meso_zone31",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p13 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with high complexity")
-
-coef <- coefficients(adon)["Meso_zone31:Complexity_3pt2",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p12 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with intermediate complexity")
-
-
-coef <- coefficients(adon)["Meso_zone31:Complexity_3pt1",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p11 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with low complexity")
-
-
-
-coef <- coefficients(adon)["Meso_zone32",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p23 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with high complexity")
-
-coef <- coefficients(adon)["Meso_zone32:Complexity_3pt2",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p22 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with intermediate complexity")
-
-
-coef <- coefficients(adon)["Meso_zone32:Complexity_3pt1",]
-top.coef <- coef[rev(order(abs(coef)))[1:20]]
-par(mar = c(3, 14, 2, 1))
-p21 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with low complexity")
-
-
-(p11|p12|p13)/
-   (p21|p22|p23)/
-   (p31|p32|p33)
+adon
 
 #Compare among-group similarities in composition
 #by complexity levels
@@ -593,4 +536,60 @@ mds2 <- ggplot()+
    labs(colour = "Complexity", shape = "Zones")
 
 mds1/mds2
+
+
+
+levels(dat_total_debris_env$Complexity_3pt)
+
+coef <- coefficients(adon)["(Intercept)",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p33 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with high complexity")
+
+coef <- coefficients(adon)["Complexity_3pt1",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p32 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with intermediate complexity")
+
+
+coef <- coefficients(adon)["Complexity_3pt2",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p31 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with low complexity")
+
+coef <- coefficients(adon)["Meso_zone31",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p13 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with high complexity")
+
+coef <- coefficients(adon)["Meso_zone31:Complexity_3pt2",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p12 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with intermediate complexity")
+
+
+coef <- coefficients(adon)["Meso_zone31:Complexity_3pt1",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p11 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with low complexity")
+
+
+
+coef <- coefficients(adon)["Meso_zone32",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p23 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with high complexity")
+
+coef <- coefficients(adon)["Meso_zone32:Complexity_3pt2",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p22 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with intermediate complexity")
+
+
+coef <- coefficients(adon)["Meso_zone32:Complexity_3pt1",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p21 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with low complexity")
+
+
 
