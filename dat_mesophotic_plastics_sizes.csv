@@ -1,0 +1,1185 @@
+"","Country","Location","Site","Local_census","Depth_m","Complexity_3pt","Mesozone3","Size_1_fishing","Size_1_other","Size_1_plastics","Size_2_fishing","Size_2_other","Size_2_plastics","Size_3_fishing","Size_3_other","Size_3_plastics","Size_4_fishing","Size_4_other","Size_4_plastics","Size_5_fishing","Size_5_other","Size_5_plastics"
+"1","Australia","Coral_sea","Bougainville_NW_1","1",65.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+"2","Australia","Coral_sea","Bougainville_NW_1","10",54.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"3","Australia","Coral_sea","Bougainville_NW_1","11",47.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"4","Australia","Coral_sea","Bougainville_NW_1","12",54.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+"5","Australia","Coral_sea","Bougainville_NW_1","13",45,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"6","Australia","Coral_sea","Bougainville_NW_1","14",43.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"7","Australia","Coral_sea","Bougainville_NW_1","15",36.7,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"8","Australia","Coral_sea","Bougainville_NW_1","16",36.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"9","Australia","Coral_sea","Bougainville_NW_1","17",35.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"10","Australia","Coral_sea","Bougainville_NW_1","18",27.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"11","Australia","Coral_sea","Bougainville_NW_1","18",27.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"12","Australia","Coral_sea","Bougainville_NW_1","19",22.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"13","Australia","Coral_sea","Bougainville_NW_1","2",66.7,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"14","Australia","Coral_sea","Bougainville_NW_1","3",66.3,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"15","Australia","Coral_sea","Bougainville_NW_1","4",67.7,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"16","Australia","Coral_sea","Bougainville_NW_1","5",67.3,"high","Lower",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"17","Australia","Coral_sea","Bougainville_NW_1","6",58.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"18","Australia","Coral_sea","Bougainville_NW_1","7",57.9,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"19","Australia","Coral_sea","Bougainville_NW_1","8",57.8,"high","Upper",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"20","Australia","Coral_sea","Bougainville_NW_1","9",57.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"21","Australia","Coral_sea","Bougainville_SW_2","1",67.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"22","Australia","Coral_sea","Bougainville_SW_2","10",52.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"23","Australia","Coral_sea","Bougainville_SW_2","11",47.8,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"24","Australia","Coral_sea","Bougainville_SW_2","12",46.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"25","Australia","Coral_sea","Bougainville_SW_2","13",46,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"26","Australia","Coral_sea","Bougainville_SW_2","14",45.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"27","Australia","Coral_sea","Bougainville_SW_2","15",44.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"28","Australia","Coral_sea","Bougainville_SW_2","16",37.8,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"29","Australia","Coral_sea","Bougainville_SW_2","17",35.2,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"30","Australia","Coral_sea","Bougainville_SW_2","18",33.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"31","Australia","Coral_sea","Bougainville_SW_2","19",34.6,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"32","Australia","Coral_sea","Bougainville_SW_2","2",67.1,"high","Lower",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"33","Australia","Coral_sea","Bougainville_SW_2","20",31.6,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"34","Australia","Coral_sea","Bougainville_SW_2","21",28.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"35","Australia","Coral_sea","Bougainville_SW_2","22",27.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"36","Australia","Coral_sea","Bougainville_SW_2","23",25.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"37","Australia","Coral_sea","Bougainville_SW_2","24",24,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"38","Australia","Coral_sea","Bougainville_SW_2","25",22.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"39","Australia","Coral_sea","Bougainville_SW_2","26",15.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"40","Australia","Coral_sea","Bougainville_SW_2","27",14.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"41","Australia","Coral_sea","Bougainville_SW_2","3",64.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"42","Australia","Coral_sea","Bougainville_SW_2","4",63.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"43","Australia","Coral_sea","Bougainville_SW_2","5",63,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"44","Australia","Coral_sea","Bougainville_SW_2","6",58.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"45","Australia","Coral_sea","Bougainville_SW_2","7",58.2,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"46","Australia","Coral_sea","Bougainville_SW_2","8",55.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"47","Australia","Coral_sea","Bougainville_SW_2","9",53.7,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"48","Australia","Coral_sea","Flinders_South_1","1",35.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"49","Australia","Coral_sea","Flinders_South_1","2",37.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"50","Australia","Coral_sea","Flinders_South_1","3",42.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"51","Australia","Coral_sea","Flinders_South_1","4",34,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"52","Australia","Coral_sea","Flinders_South_1","5",45.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"53","Australia","Coral_sea","Flinders_South_2","6",35.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"54","Australia","Coral_sea","Flinders_South_2","7",44.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"55","Australia","Coral_sea","Holmes_South_1","1",55,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"56","Australia","Coral_sea","Holmes_South_1","10",34.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"57","Australia","Coral_sea","Holmes_South_1","2",52.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"58","Australia","Coral_sea","Holmes_South_1","3",52.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"59","Australia","Coral_sea","Holmes_South_1","4",55.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"60","Australia","Coral_sea","Holmes_South_1","5",46.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"61","Australia","Coral_sea","Holmes_South_1","6",42.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"62","Australia","Coral_sea","Holmes_South_1","7",43,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"63","Australia","Coral_sea","Holmes_South_1","8",36.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"64","Australia","Coral_sea","Holmes_South_1","9",36,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"65","Australia","Coral_sea","Holmes_South_2","1",62.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"66","Australia","Coral_sea","Holmes_South_2","10",36.9,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"67","Australia","Coral_sea","Holmes_South_2","11",34.8,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"68","Australia","Coral_sea","Holmes_South_2","12",31.2,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"69","Australia","Coral_sea","Holmes_South_2","13",28,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"70","Australia","Coral_sea","Holmes_South_2","2",63.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"71","Australia","Coral_sea","Holmes_South_2","3",64.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"72","Australia","Coral_sea","Holmes_South_2","4",63.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"73","Australia","Coral_sea","Holmes_South_2","5",62.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"74","Australia","Coral_sea","Holmes_South_2","6",56.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"75","Australia","Coral_sea","Holmes_South_2","7",54.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"76","Australia","Coral_sea","Holmes_South_2","8",46.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"77","Australia","Coral_sea","Holmes_South_2","9",45,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"78","Australia","Coral_sea","Lihou_North_1","1",31.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"79","Australia","Coral_sea","Lihou_North_1","10",51.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"80","Australia","Coral_sea","Lihou_North_1","11",55.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"81","Australia","Coral_sea","Lihou_North_1","12",55.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"82","Australia","Coral_sea","Lihou_North_1","2",30.8,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"83","Australia","Coral_sea","Lihou_North_1","3",33.2,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"84","Australia","Coral_sea","Lihou_North_1","4",32.2,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"85","Australia","Coral_sea","Lihou_North_1","5",34.9,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"86","Australia","Coral_sea","Lihou_North_1","6",40.1,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"87","Australia","Coral_sea","Lihou_North_1","7",40.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"88","Australia","Coral_sea","Lihou_North_1","8",45.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"89","Australia","Coral_sea","Lihou_North_1","9",50.1,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"90","Australia","Coral_sea","Osprey_North entrance_1","1",87.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"91","Australia","Coral_sea","Osprey_North entrance_1","10",56.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"92","Australia","Coral_sea","Osprey_North entrance_1","11",47,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"93","Australia","Coral_sea","Osprey_North entrance_1","12",44.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"94","Australia","Coral_sea","Osprey_North entrance_1","13",43.2,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"95","Australia","Coral_sea","Osprey_North entrance_1","14",55.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"96","Australia","Coral_sea","Osprey_North entrance_1","15",52.6,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"97","Australia","Coral_sea","Osprey_North entrance_1","16",37.5,"intermediate","Upper",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"98","Australia","Coral_sea","Osprey_North entrance_1","17",36.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"99","Australia","Coral_sea","Osprey_North entrance_1","18",33.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"100","Australia","Coral_sea","Osprey_North entrance_1","19",28.5,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101","Australia","Coral_sea","Osprey_North entrance_1","2",85.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"102","Australia","Coral_sea","Osprey_North entrance_1","20",24.9,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"103","Australia","Coral_sea","Osprey_North entrance_1","21",21.7,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"104","Australia","Coral_sea","Osprey_North entrance_1","22",18.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"105","Australia","Coral_sea","Osprey_North entrance_1","23",17,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"106","Australia","Coral_sea","Osprey_North entrance_1","24",14.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"107","Australia","Coral_sea","Osprey_North entrance_1","25",9.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"108","Australia","Coral_sea","Osprey_North entrance_1","26",7.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"109","Australia","Coral_sea","Osprey_North entrance_1","27",7.7,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"110","Australia","Coral_sea","Osprey_North entrance_1","3",77.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"111","Australia","Coral_sea","Osprey_North entrance_1","4",74.4,"high","Lower",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"112","Australia","Coral_sea","Osprey_North entrance_1","5",81.7,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"113","Australia","Coral_sea","Osprey_North entrance_1","6",71.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"114","Australia","Coral_sea","Osprey_North entrance_1","7",67.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"115","Australia","Coral_sea","Osprey_North entrance_1","8",65.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"116","Australia","Coral_sea","Osprey_North entrance_1","9",63.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"117","Australia","Coral_sea","Osprey_North entrance_2","28",93.9,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"118","Australia","Coral_sea","Osprey_North entrance_2","29",93.9,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"119","Australia","Coral_sea","Osprey_North entrance_2","30",92.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"120","Australia","Coral_sea","Osprey_North entrance_2","31",86.5,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"121","Australia","Coral_sea","Osprey_North entrance_2","32",84.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"122","Australia","Coral_sea","Osprey_North entrance_2","33",82.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"123","Australia","Coral_sea","Osprey_North entrance_2","34",96.3,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"124","Australia","Coral_sea","Osprey_North entrance_2","35",91,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"125","Australia","Coral_sea","Osprey_North entrance_2","36",91.1,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"126","Australia","Coral_sea","Osprey_North entrance_2","37",90.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"127","Australia","Coral_sea","Osprey_North entrance_2","38",93.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"128","Australia","Coral_sea","Osprey_North entrance_2","39",77.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"129","Australia","Coral_sea","Osprey_North entrance_2","40",70.9,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"130","Australia","Coral_sea","Osprey_North entrance_2","41",70.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"131","Australia","Coral_sea","Osprey_North entrance_2","42",66.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"132","Australia","Coral_sea","Osprey_North entrance_2","43",64.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"133","Australia","Coral_sea","Osprey_North entrance_2","44",58.1,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"134","Australia","Coral_sea","Osprey_North entrance_3","45",64.6,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"135","Australia","Coral_sea","Osprey_North entrance_3","46",52.8,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"136","Australia","Coral_sea","Osprey_North entrance_3","47",47.9,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"137","Australia","Coral_sea","Osprey_North entrance_3","48",44.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"138","Australia","Coral_sea","Osprey_North entrance_3","49",41.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"139","Australia","Coral_sea","Osprey_North entrance_3","50",32.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"140","Australia","Coral_sea","Osprey_North entrance_3","51",34.9,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"141","Australia","Coral_sea","Osprey_North entrance_3","52",38.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"142","Australia","Coral_sea","Osprey_North entrance_3","53",28.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"143","Australia","Coral_sea","Osprey_North entrance_3","54",25.4,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"144","Australia","Coral_sea","Osprey_North entrance_3","55",23.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"145","Australia","Coral_sea","Osprey_North entrance_3","56",18.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"146","Australia","Coral_sea","Osprey_North entrance_3","57",15.5,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"147","Australia","Coral_sea","Osprey_North entrance_3","58",12.9,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"148","Australia","Coral_sea","Osprey_North entrance_3","59",5.3,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"149","Australia","Coral_sea","Osprey_North entrance_3","60",7.3,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"150","Australia","Coral_sea","Osprey_North entrance_3","61",9.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"151","Australia","Coral_sea","Osprey_North Horn_1","1",47.7,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"152","Australia","Coral_sea","Osprey_North Horn_1","10",12.9,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"153","Australia","Coral_sea","Osprey_North Horn_1","11",16.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"154","Australia","Coral_sea","Osprey_North Horn_1","12",18.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"155","Australia","Coral_sea","Osprey_North Horn_1","13",9.4,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"156","Australia","Coral_sea","Osprey_North Horn_1","14",7.4,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"157","Australia","Coral_sea","Osprey_North Horn_1","15",6.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"158","Australia","Coral_sea","Osprey_North Horn_1","2",44.7,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"159","Australia","Coral_sea","Osprey_North Horn_1","3",42.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"160","Australia","Coral_sea","Osprey_North Horn_1","4",32.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"161","Australia","Coral_sea","Osprey_North Horn_1","5",35.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"162","Australia","Coral_sea","Osprey_North Horn_1","6",38,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"163","Australia","Coral_sea","Osprey_North Horn_1","7",28,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"164","Australia","Coral_sea","Osprey_North Horn_1","8",25.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"165","Australia","Coral_sea","Osprey_North Horn_1","9",23.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"166","Australia","Coral_sea","Osprey_North Horn_2","16",48,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"167","Australia","Coral_sea","Osprey_North Horn_2","17",44.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"168","Australia","Coral_sea","Osprey_North Horn_2","18",36.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"169","Australia","Coral_sea","Osprey_North Horn_2","19",33.2,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"170","Australia","Coral_sea","Osprey_North Horn_2","20",27.4,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"171","Australia","Coral_sea","Osprey_North Horn_2","21",21.4,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"172","Australia","Coral_sea","Osprey_North Horn_2","22",17.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"173","Australia","Coral_sea","Osprey_North Horn_2","23",14.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"174","Australia","Coral_sea","Osprey_North Horn_2","24",6.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"175","Australia","Coral_sea","Osprey_North Horn_2","25",8.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"176","Australia","Coral_sea","Osprey_North wall_3","1",97.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"177","Australia","Coral_sea","Osprey_North wall_3","10",68,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"178","Australia","Coral_sea","Osprey_North wall_3","11",64.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"179","Australia","Coral_sea","Osprey_North wall_3","12",61.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"180","Australia","Coral_sea","Osprey_North wall_3","13",52.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"181","Australia","Coral_sea","Osprey_North wall_3","14",54.6,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"182","Australia","Coral_sea","Osprey_North wall_3","15",59,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"183","Australia","Coral_sea","Osprey_North wall_3","2",87.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"184","Australia","Coral_sea","Osprey_North wall_3","3",94.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"185","Australia","Coral_sea","Osprey_North wall_3","4",90.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"186","Australia","Coral_sea","Osprey_North wall_3","5",83.9,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"187","Australia","Coral_sea","Osprey_North wall_3","6",80.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"188","Australia","Coral_sea","Osprey_North wall_3","7",71.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"189","Australia","Coral_sea","Osprey_North wall_3","8",74.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"190","Australia","Coral_sea","Osprey_North wall_3","9",77,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"191","Australia","Coral_sea","Osprey_South_1","1",57.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"192","Australia","Coral_sea","Osprey_South_1","10",18.4,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"193","Australia","Coral_sea","Osprey_South_1","11",8.5,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"194","Australia","Coral_sea","Osprey_South_1","12",6.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"195","Australia","Coral_sea","Osprey_South_1","2",55.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"196","Australia","Coral_sea","Osprey_South_1","3",46.2,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"197","Australia","Coral_sea","Osprey_South_1","4",47.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"198","Australia","Coral_sea","Osprey_South_1","5",38,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"199","Australia","Coral_sea","Osprey_South_1","6",34.2,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"200","Australia","Coral_sea","Osprey_South_1","7",28.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"201","Australia","Coral_sea","Osprey_South_1","8",24.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"202","Australia","Coral_sea","Osprey_South_1","9",14.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"203","Australia","Coral_sea","Osprey_South_2","13",96.5,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"204","Australia","Coral_sea","Osprey_South_2","14",91,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"205","Australia","Coral_sea","Osprey_South_2","15",81.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"206","Australia","Coral_sea","Osprey_South_2","16",81,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"207","Australia","Coral_sea","Osprey_South_2","17",87.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"208","Australia","Coral_sea","Osprey_South_2","18",75.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"209","Australia","Coral_sea","Osprey_South_2","19",78,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"210","Australia","Coral_sea","Osprey_South_2","20",70.3,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"211","Australia","Coral_sea","Osprey_South_2","21",60.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"212","Australia","Coral_sea","Osprey_South_2","22",65,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"213","Australia","Coral_sea","Osprey_South_2","23",68.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"214","Australia","Coral_sea","Osprey_South_2","24",88.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"215","Australia","Coral_sea","Osprey_South_2","25",78.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"216","Australia","Coral_sea","Osprey_South_2","26",53.8,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"217","Australia","Coral_sea","Osprey_South_2","27",51.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"218","Australia","Coral_sea","Willis_North_1","1",32.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"219","Australia","Coral_sea","Willis_North_1","10",48,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"220","Australia","Coral_sea","Willis_North_1","11",51.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"221","Australia","Coral_sea","Willis_North_1","12",40.7,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"222","Australia","Coral_sea","Willis_North_1","13",44.6,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"223","Australia","Coral_sea","Willis_North_1","14",42.2,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"224","Australia","Coral_sea","Willis_North_1","15",39.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"225","Australia","Coral_sea","Willis_North_1","2",45.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"226","Australia","Coral_sea","Willis_North_1","3",44.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"227","Australia","Coral_sea","Willis_North_1","4",50.2,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"228","Australia","Coral_sea","Willis_North_1","5",52.1,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"229","Australia","Coral_sea","Willis_North_1","6",52.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"230","Australia","Coral_sea","Willis_North_1","7",57.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"231","Australia","Coral_sea","Willis_North_1","8",40.4,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"232","Australia","Coral_sea","Willis_North_1","9",43.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"233","Bermuda","Bermuda","Spittal","SP_60m_D1_T2_22_07_2016",60.96,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"234","Bermuda","Bermuda","North Northeast","NNE_60m_D2_T2_23_07_2016",60,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"235","Bermuda","Bermuda","North Northeast","NNE_60m_D2_T3_23_07_2016",60,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"236","Bermuda","Bermuda","North Northeast","NNE_60m_D2_T4_23_07_2016",60,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"237","Bermuda","Bermuda","North Northeast","NNE_30m_D2_T5_23_07_2016",30.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"238","Bermuda","Bermuda","North Northeast","NNE_30m_D2_T6_23_07_2016",30.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"239","Bermuda","Bermuda","North Northeast","NNE_15m_D2_T7_23_07_2016",18.4,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"240","Bermuda","Bermuda","Plantagenet Bank","PL_90m_D4_T1_25_07_2016",91.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"241","Bermuda","Bermuda","Plantagenet Bank","PL_90m_D4_T2_25_07_2016",90,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"242","Bermuda","Bermuda","Spittal","SP_90m_D5_T1_26_07_2016",90.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"243","Bermuda","Bermuda","Spittal","SP_30m_D5_T3_26_07_2016",28,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"244","Bermuda","Bermuda","Spittal","SP_30m_D5_T4_26_07_2016",28.9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"245","Bermuda","Bermuda","Spittal","SP_15m_D5_T5_26_07_2016",15.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"246","Bermuda","Bermuda","Spittal","SP_15m_D5_T6_26_07_2016",15.4,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"247","Bermuda","Bermuda","Spittal","SP_90m_D6_T1_27_07_2016",90.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"248","Bermuda","Bermuda","Spittal","SP_90m_D6_T2_27_07_2016",90.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"249","Bermuda","Bermuda","Spittal","SP_30m_D6_T3_27_07_2016",30.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"250","Bermuda","Bermuda","Spittal","SP_15m_D6_T5_27_07_2016",15.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"251","Bermuda","Bermuda","North Northeast","NNE_30m_D7_T2_28_07_2016",29.9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"252","Bermuda","Bermuda","North Northeast","NNE_15m_D9_T1_30_07_2016",19.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"253","Bermuda","Bermuda","North Northeast","NNE_15m_D9_T2_30_07_2016",19.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"254","Bermuda","Bermuda","North Northeast","NNE_90m_D10_T2_31_07_2016",91.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"255","Bermuda","Bermuda","Tiger","TIG_60m_D11_T1_01_08_2016",60.7,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"256","Bermuda","Bermuda","Tiger","TIG_60m_D11_T2_01_08_2016",61,"low","Lower",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"257","Bermuda","Bermuda","Tiger","TIG_60m_D11_T4_01_08_2016",62,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"258","Bermuda","Bermuda","Spittal","SP_60m_D13_T1_03_08_2016",57.9,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"259","Bermuda","Bermuda","Spittal","SP_60m_D13_T2_03_08_2016",62.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"260","Bermuda","Bermuda","North Northeast","NNE_90m_D14_T1_04_08_2016",91.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"261","Bermuda","Bermuda","North Northeast","NNE_90m_D14_T2_04_08_2016",91.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"262","Bermuda","Bermuda","Tiger","TIG_90m_D15_T1_05_08_2016",89.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"263","Bermuda","Bermuda","Tiger","TIG_90m_D15_T2_05_08_2016",92.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"264","Bermuda","Bermuda","Tiger","TIG_30m_D15_T3_05_08_2016",30.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"265","Bermuda","Bermuda","Tiger","TIG_30m_D15_T4_05_08_2016",31.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"266","Bermuda","Bermuda","Tiger","TIG_15m_D15_T5_05_08_2016",17,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"267","Bermuda","Bermuda","Tiger","TIG_15m_D15_T6_05_08_2016",17,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"268","Bermuda","Bermuda","Tiger","TIG_90m_D17_T1_07_08_2016",90.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"269","Bermuda","Bermuda","Tiger","TIG_30m_D17_T3_07_08_2016",28,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"270","Bermuda","Bermuda","Tiger","TIG_30m_D17_T4_07_08_2016",28.9,"high","Shallow",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"271","Bermuda","Bermuda","Tiger","TIG_15m_D17_T5_07_08_2016",15.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"272","Bermuda","Bermuda","Tiger","TIG_15m_D17_T6_07_08_2016",15.4,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"273","Bermuda","Bermuda","Plantagenet Bank","PL_60m_D20_T1_12_08_2016",55.18,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"274","Bermuda","Bermuda","Plantagenet Bank","PL_60m_D20_T3_12_08_2016",55.18,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"275","Bermuda","Bermuda","Plantagenet Bank","PL_60m_D20_T4_12_08_2016",56,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"276","Bermuda","Bermuda","North Northeast","NNE_150m_D3_T1_23_07_2016",145,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"277","Bermuda","Bermuda","North Northeast","NNE_150m_D3_T2_23_07_2016",137,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"278","Bermuda","Bermuda","North Northeast","NNE_150m_D3_T3_23_07_2016",136,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"279","Bermuda","Bermuda","Plantagenet Bank","PL_200m_D4_T1_24_07_2016",186,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"280","Bermuda","Bermuda","Plantagenet Bank","PL_300m_D5_T1_25_07_2016",297,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"281","Bermuda","Bermuda","Plantagenet Bank","PL_300m_D5_T2_25_07_2016",303,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"282","Bermuda","Bermuda","Plantagenet Bank","PL_300m_D5_T3_25_07_2016",303,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"283","Bermuda","Bermuda","Plantagenet Bank","PL_150m_D6_T1_25_07_2016",137,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"284","Bermuda","Bermuda","Spittal","SP_300m_D7_T1_26_07_2016",300,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"285","Bermuda","Bermuda","Spittal","SP_300m_D7_T2_26_07_2016",297,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"286","Bermuda","Bermuda","Spittal","SP_300m_D7_T3_26_07_2016",300,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"287","Bermuda","Bermuda","Spittal","SP_200m_D8_T1_26_07_2016",200,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"288","Bermuda","Bermuda","Spittal","SP_200m_D8_T2_26_07_2016",200,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"289","Bermuda","Bermuda","Spittal","SP_200m_D8_T3_26_07_2016",199,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"290","Bermuda","Bermuda","North Northeast","NNE_300m_D10_T1_28_07_2016",299,"high","Lower",0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"291","Bermuda","Bermuda","North Northeast","NNE_300m_D10_T2_28_07_2016",300,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"292","Bermuda","Bermuda","North Northeast","NNE_300m_D10_T3_28_07_2016",299,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"293","Bermuda","Bermuda","North Northeast","NNE_200m_D11_T1_28_07_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"294","Bermuda","Bermuda","North Northeast","NNE_200m_D11_T2_28_07_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"295","Bermuda","Bermuda","North Northeast","NNE_200m_D11_T3_28_07_2016",199,"high","Lower",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"296","Bermuda","Bermuda","North Northeast","NNE_250m_D12_T1_29_07_2016",249,"intermediate","Lower",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"297","Bermuda","Bermuda","North Northeast","NNE_250m_D12_T2_29_07_2016",250,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"298","Bermuda","Bermuda","North Northeast","NNE_250m_D12_T3_29_07_2016",250,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"299","Bermuda","Bermuda","North Northeast","NNE_200m_D13_T1_31_07_2016",200,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"300","Bermuda","Bermuda","North Northeast","NNE_200m_D13_T2_31_07_2016",200,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301","Bermuda","Bermuda","North Northeast","NNE_200m_D13_T3_31_07_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"302","Bermuda","Bermuda","North Northeast","NNE_200m_D14_T1_31_07_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"303","Bermuda","Bermuda","North Northeast","NNE_200m_D14_T2_31_07_2016",199,"high","Lower",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"304","Bermuda","Bermuda","North Northeast","NNE_200m_D14_T3_31_07_2016",196,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"305","Bermuda","Bermuda","Tiger","TIG_200m_D15_T1_01_08_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"306","Bermuda","Bermuda","Tiger","TIG_200m_D15_T2_01_08_2016",200,"high","Lower",0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"307","Bermuda","Bermuda","Tiger","TIG_200m_D15_T3_01_08_2016",199,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"308","Bermuda","Bermuda","Tiger","TIG_150m_D15_T4_01_08_2016",137,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"309","Bermuda","Bermuda","Tiger","TIG_150m_D15_T5_01_08_2016",137,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"310","Bermuda","Bermuda","Tiger","TIG_150m_D15_T6_01_08_2016",140,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"311","Bermuda","Bermuda","Spittal","SP_150m_D18_T1_04_08_2016",149,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"312","Bermuda","Bermuda","Spittal","SP_150m_D18_T2_04_08_2016",148,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"313","Bermuda","Bermuda","Spittal","SP_150m_D18_T3_04_08_2016",149,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"314","Bermuda","Bermuda","Spittal","SP_250m_D19_T1_04_08_2016",250,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"315","Bermuda","Bermuda","Spittal","SP_250m_D19_T2_04_08_2016",248,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"316","Bermuda","Bermuda","Spittal","SP_250m_D19_T3_04_08_2016",249,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"317","Bermuda","Bermuda","Spittal","SP_150m_D19_T4_04_08_2016",143,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"318","Bermuda","Bermuda","Tiger","TIG_250m_D20_T1_05_08_2016",241,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"319","Bermuda","Bermuda","Tiger","TIG_250m_D20_T2_05_08_2016",243,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"320","Bermuda","Bermuda","North Northeast","NNE_200m_D21_T1_06_08_2016",195,"high","Lower",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"321","Bermuda","Bermuda","North Northeast","NNE_200m_D21_T2_06_08_2016",198,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"322","Bermuda","Bermuda","North Northeast","NNE_200m_D21_T3_06_08_2016",147,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"323","Bermuda","Bermuda","Spittal","SP_150m_D22_T1_07_08_2016",148,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"324","Bermuda","Bermuda","Spittal","SP_150m_D22_T2_07_08_2016",148,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"325","Bermuda","Bermuda","Spittal","SP_150m_D22_T3_07_08_2016",147,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"326","Bermuda","Bermuda","Tiger","TIG_200m_D26_T4_12_08_2016",198,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"327","Bermuda","Bermuda","Tiger","TIG_200m_D27_T1_12_08_2016",200,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"328","Bermuda","Bermuda","Tiger","TIG_200m_D27_T2_12_08_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"329","Bermuda","Bermuda","Tiger","TIG_100m_D27_T3_12_08_2016",100,"intermediate","Lower",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"330","Bermuda","Bermuda","Plantagenet Bank","PL_250m_D28_T1_13_08_2016",249,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"331","Bermuda","Bermuda","Plantagenet Bank","PL_250m_D28_T2_13_08_2016",250,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"332","Bermuda","Bermuda","Plantagenet Bank","PL_250m_D28_T3_13_08_2016",249,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"333","Bermuda","Bermuda","Plantagenet Bank","PL_200m_D28_T4_13_08_2016",198,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"334","Bermuda","Bermuda","Plantagenet Bank","PL_200m_D29_T1_13_08_2016",200,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"335","Bermuda","Bermuda","Plantagenet Bank","PL_200m_D29_T2_13_08_2016",197,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"336","Bermuda","Bermuda","Plantagenet Bank","PL_150m_D29_T3_13_08_2016",148,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"337","Bermuda","Bermuda","Plantagenet Bank","PL_150m_D29_T4_13_08_2016",146,"intermediate","Lower",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"338","Seychelles","Aldabra","AldabraW1","MROV_D120_ALD_W1_VCL_VCR_10m_Benthic_T1",10.35,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"339","Seychelles","Aldabra","AldabraW1","MROV_D120_ALD_W1_VCL_VCR_10m_Benthic_T2",12.75,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"340","Seychelles","Aldabra","AldabraW1","MROV_D120_ALD_W1_VCL_VCR_10m_Benthic_T3",8.9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"341","Seychelles","Aldabra","AldabraW1","MROV_D120_ALD_W1_VCL_VCR_10m_Benthic_T4",8.9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"342","Seychelles","Aldabra","AldabraW1","MROV_D126_ALD_W1_VCL_VCR_30m_Benthic_T1",25.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"343","Seychelles","Aldabra","AldabraW1","MROV_D126_ALD_W1_VCL_VCR_30m_Benthic_T2",22,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"344","Seychelles","Aldabra","AldabraW1","MROV_D126_ALD_W1_VCL_VCR_30m_Benthic_T3",28,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"345","Seychelles","Astove","Astove W1","ROV_D168_AST_W1_VC1_VC2_250m_Benthic_T1",249,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"346","Seychelles","Astove","Astove W1","ROV_D168_AST_W1_VC1_VC2_250m_Benthic_T2",249,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"347","Seychelles","Astove","Astove W1","ROV_D185_AST_W1_VC1_VC2_30m_Benthic_T1",21.62974,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"348","Seychelles","Astove","Astove W1","ROV_D185_AST_W1_VC1_VC2_30m_Benthic_T2",19.69335,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"349","Seychelles","Astove","Astove W1","ROV_D185_AST_W1_VC1_VC2_30m_Benthic_T3",23.56613,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"350","Seychelles","D'Arros","D'Arros N1","ROV_D264_DAR_N1_VC1_VC2_350m_Benthic_T1",347.5,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"351","Seychelles","Alphonse","Alphonse N1","SCUBA_D035_ALP_N1_VCL_VCR_Benthic_10m_T1",10,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"352","Seychelles","Alphonse","Alphonse N1","SCUBA_D035_ALP_N1_VCL_VCR_Benthic_10m_T2",10,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"353","Seychelles","Alphonse","Alphonse N1","SCUBA_D035_ALP_N1_VCL_VCR_Benthic_10m_T3",10,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"354","Seychelles","Aldabra","Aldabra N1","SCUBA_D066_ALD_N1_VCL_Benthic_10m_T1",10,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"355","Seychelles","Aldabra","Aldabra N1","SCUBA_D066_ALD_N1_VCL_Benthic_10m_T2",10,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"356","Seychelles","Aldabra","Aldabra N1","SCUBA_D066_ALD_N1_VCL_Benthic_10m_T3",10,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"357","Seychelles","Astove","Astove W1","SCUBA_D163_AST_W1_VCR_VCL_10m_Benthic_T1",11,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"358","Seychelles","Astove","Astove W1","SCUBA_D163_AST_W1_VCR_VCL_10m_Benthic_T2",10,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"359","Seychelles","Poivre","Poivre E1","SCUBA_D229_POI_E1_VCL2_VCR_10m_Benthic_T1",9.75,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"360","Seychelles","Poivre","Poivre E1","SCUBA_D229_POI_E1_VCL2_VCR_10m_Benthic_T2",9.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"361","Seychelles","Poivre","Poivre E1","SCUBA_D229_POI_E1_VCL2_VCR_10m_Benthic_T3",9.65,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"362","Seychelles","Desroches","Desroches S1","SCUBA_D306_DES_S1_VCL2_VCR_10m_Benthic_T1",12.15,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"363","Seychelles","Desroches","Desroches S1","SCUBA_D306_DES_S1_VCL2_VCR_10m_Benthic_T2",10.05,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"364","Seychelles","Desroches","Desroches S1","SCUBA_D306_DES_S1_VCL2_VCR_10m_Benthic_T3",10.85,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"365","Seychelles","Alphonse","Alphonse N1","YS_D026_ALP_N1_VC3_VC4_250m_Benthic_T1",250,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"366","Seychelles","Alphonse","Alphonse N1","YS_D033_ALP_N1_VC3_VC4_120m_Benthic_T1",91.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"367","Seychelles","Alphonse","Alphonse N1","YS_D033_ALP_N1_VC8_VC7_120m_Benthic_T2",92,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"368","Seychelles","Alphonse","Alphonse N1","YS_D045_ALP_N1_VC3_VC4_60m_Benthic_T1",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"369","Seychelles","Alphonse","Alphonse N1","YS_D045_ALP_N1_VC8_VC7_60m_Benthic_T3",51,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"370","Seychelles","Alphonse","Alphonse N1","YS_D045_ALP_N1_VC8_VC7_60m_Benthic_T4",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"371","Seychelles","Alphonse","Alphonse N1","YS_D048_ALP_N1_VC8_VC7_250m_Benthic_T1",230,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"372","Seychelles","Aldabra","Aldabra N1","YS_D058_ALD_N1_VC5_VC6_Benthic_120m_T1",117.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"373","Seychelles","Aldabra","Aldabra N1","YS_D058_ALD_N1_VC5_VC6_Benthic_120m_T2",115,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"374","Seychelles","Aldabra","Aldabra N1","YS_D073_ALD_N1_VC8_VC7_250m_Benthic_T1",250,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"375","Seychelles","Aldabra","Aldabra N1","YS_D073_ALD_N1_VC8_VC7_250m_Benthic_T2",250,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"376","Seychelles","Aldabra","Aldabra N1","YS_D078_ALD_N1_VC8_VC7_60m_Benthic_T2",42.99118965,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"377","Seychelles","Aldabra","Aldabra N1","YS_D087_ALD_N1_VC3_VC4_120m_Benthic_T3",120,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"378","Seychelles","Aldabra","Aldabra N1","YS_D087_ALD_N1_VC8_VC7_250m_Benthic_T1",247.5,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"379","Seychelles","Aldabra","Aldabra N1","YS_D097_ALD_N1_VC8_VC7_30m_Benthic_T1",31,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"380","Seychelles","Aldabra","Aldabra N1","YS_D097_ALD_N1_VC8_VC7_30m_Benthic_T2",32.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"381","Seychelles","Aldabra","Aldabra N1","YS_D097_ALD_N1_VC8_VC7_30m_Benthic_T3",30.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"382","Seychelles","Aldabra","AldabraW1","YS_D104_ALD_W1_VC8_VC7_30m_Benthic_T1",32.46,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"383","Seychelles","Aldabra","AldabraW1","YS_D104_ALD_W1_VC8_VC7_30m_Benthic_T2",33.91082627,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"384","Seychelles","Aldabra","AldabraW1","YS_D104_ALD_W1_VC8_VC7_30m_Benthic_T3",32.28583265,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"385","Seychelles","Aldabra","AldabraW1","YS_D110_ALD_W1_VC3_VC4_120m_Benthic_T1",125.5130036,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"386","Seychelles","Aldabra","AldabraW1","YS_D110_ALD_W1_VC5_VC6_120m_Benthic_T2",136.1811119,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"387","Seychelles","Aldabra","AldabraW1","YS_D110_ALD_W1_VC8_VC7_120m_Benthic_T3",125.694191,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"388","Seychelles","Aldabra","AldabraW1","YS_D127_ALD_W1_VC8_VC7_250m_Benthic_T1",251.8120647,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"389","Seychelles","Aldabra","AldabraW1","YS_D127_ALD_W1_VC8_VC7_250m_Benthic_T2",248.3583253,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"390","Seychelles","Aldabra","AldabraW1","YS_D127_ALD_W1_VC8_VC7_250m_Benthic_T3",250.6250439,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"391","Seychelles","Aldabra","AldabraW1","YS_D135_ALD_W1_VC8_VC7_60m_Benthic_T1",68.79654954,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"392","Seychelles","Aldabra","AldabraW1","YS_D135_ALD_W1_VC8_VC7_60m_Benthic_T2",66.92511805,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"393","Seychelles","Aldabra","AldabraW1","YS_D135_ALD_W1_VC8_VC7_60m_Benthic_T3",61.56919724,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"394","Seychelles","Aldabra","Aldabra N1","YS_D141_ALD_N1_VC8_VC7_60m_Benthic_T1",43.02389856,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"395","Seychelles","Aldabra","Aldabra N1","YS_D141_ALD_N1_VC8_VC7_60m_Benthic_T2",43.02389856,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"396","Seychelles","Astove","Astove W1","YS_D160_AST_W1_VC5_VC6_120m_Benthic_T4",125.7037,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"397","Seychelles","Astove","Astove W1","YS_D160_AST_W1_VC8_VC7_60m_Benthic_T1",55.69769,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"398","Seychelles","Astove","Astove W1","YS_D160_AST_W1_VC8_VC7_60m_Benthic_T2",57.05394,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"399","Seychelles","Astove","Astove W1","YS_D160_AST_W1_VC8_VC7_60m_Benthic_T3",61.88155,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"400","Seychelles","Astove","Astove W1","YS_D172_AST_W1_VC5_VC6_120m_Benthic_T4",120.6398,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"401","Seychelles","Astove","Astove W1","YS_D172_AST_W1_VC5_VC6_250m_Benthic_T1",252.7569,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"402","Seychelles","Astove","Astove W1","YS_D172_AST_W1_VC5_VC6_250m_Benthic_T2",248.2155,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"403","Seychelles","Astove","Astove W1","YS_D172_AST_W1_VC5_VC6_250m_Benthic_T3",243.3632,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"404","Seychelles","Astove","Astove W1","YS_D184_AST_W1_VC3_VC4_120m_Benthic_T1",137.4628,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"405","Seychelles","Alphonse","Alphonse N1","YS_D191_ALP_N1_VC3_VC4_30m_Benthic_T1",27.4399,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"406","Seychelles","Alphonse","Alphonse N1","YS_D191_ALP_N1_VC3_VC4_30m_Benthic_T2",27.37697694,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"407","Seychelles","Alphonse","Alphonse N1","YS_D194_ALP_N1_VC5_VC6_120m_Benthic_T2",113,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"408","Seychelles","Alphonse","Alphonse N1","YS_D194_ALP_N1_VC5_VC6_30m_Benthic_T3",36,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"409","Seychelles","Alphonse","Alphonse N1","YS_D194_ALP_N1_VC8_VC7_250m_Benthic_T1",244.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"410","Seychelles","Poivre","Poivre E1","YS_D214_POI_E1_VC8_VC7_120m_Benthic_T1",125.1671,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"411","Seychelles","Poivre","Poivre E1","YS_D214_POI_E1_VC8_VC7_120m_Benthic_T2",125.2613,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"412","Seychelles","Poivre","Poivre E1","YS_D214_POI_E1_VC8_VC7_120m_Benthic_T3",126.5231,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"413","Seychelles","Poivre","Poivre E1","YS_D219_POI_E1_VC8_VC7_250m_Benthic_T1",245.1886,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"414","Seychelles","Poivre","Poivre E1","YS_D219_POI_E1_VC8_VC7_250m_Benthic_T2",247.5168,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"415","Seychelles","Poivre","Poivre E1","YS_D219_POI_E1_VC8_VC7_250m_Benthic_T3",244.3614,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"416","Seychelles","Poivre","Poivre E1","YS_D222_POI_E1_VC8_VC7_Benthic_60m_T1",63.31649,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"417","Seychelles","Poivre","Poivre E1","YS_D222_POI_E1_VC8_VC7_Benthic_60m_T2",57.97816,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418","Seychelles","Poivre","Poivre E1","YS_D222_POI_E1_VC8_VC7_Benthic_60m_T3",60.53341217,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"419","Seychelles","Poivre","Poivre E1","YS_D230_POI_E1_VC8_VC7_30m_Benthic_T1",34.16431,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"420","Seychelles","Poivre","Poivre E1","YS_D230_POI_E1_VC8_VC7_30m_Benthic_T2",35.03104,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"421","Seychelles","Poivre","Poivre E1","YS_D230_POI_E1_VC8_VC7_60m_Benthic_T3",59.75003,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"422","Seychelles","D'Arros","D'Arros N1","YS_D246_DAR_N1_VC3_VC4_Benthic_120m_T1",120.8916437,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"423","Seychelles","D'Arros","D'Arros N1","YS_D246_DAR_N1_VC3_VC4_Benthic_120m_T2",118.0554677,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"424","Seychelles","D'Arros","D'Arros N1","YS_D246_DAR_N1_VC3_VC4_Benthic_120m_T3",118.4823666,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"425","Seychelles","D'Arros","D'Arros N1","YS_D253_DAR_N1_VC8_VC7_250m_Benthic_T1",246.6033106,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"426","Seychelles","D'Arros","D'Arros N1","YS_D253_DAR_N1_VC8_VC7_250m_Benthic_T2",247.1248186,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"427","Seychelles","D'Arros","D'Arros N1","YS_D253_DAR_N1_VC8_VC7_250m_Benthic_T3",248.2706469,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"428","Seychelles","D'Arros","D'Arros N1","YS_D266_DAR_N1_VC8_VC7_30m_Benthic_T1",33.0390585,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"429","Seychelles","D'Arros","D'Arros N1","YS_D266_DAR_N1_VC8_VC7_30m_Benthic_T2",35.24987284,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"430","Seychelles","D'Arros","D'Arros N1","YS_D266_DAR_N1_VC8_VC7_30m_Benthic_T3",35.54588251,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"431","Seychelles","D'Arros","D'Arros N1","YS_D266_DAR_N1_VC8_VC7_60m_Benthic_T4",69.70131145,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"432","Seychelles","D'Arros","D'Arros N1","YS_D270_DAR_N1_VC8_VC7_60m_Benthic_T1",64.35966552,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"433","Seychelles","D'Arros","D'Arros N1","YS_D270_DAR_N1_VC8_VC7_60m_Benthic_T2",63.34218983,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"434","Seychelles","Desroches","Desroches S1","YS_D286_DES_S1_VC3_VC4_120m_Benthic_T2",118.523651,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"435","Seychelles","Desroches","Desroches S1","YS_D286_DES_S1_VC5_VC6_120m_Benthic_T1",134.4120189,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"436","Seychelles","Desroches","Desroches S1","YS_D295_DES_S1_VC8_VC7_30m_Benthic_T1",36.0400204,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"437","Seychelles","Desroches","Desroches S1","YS_D295_DES_S1_VC8_VC7_30m_Benthic_T2",34.94699689,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"438","Seychelles","Desroches","Desroches S1","YS_D295_DES_S1_VC8_VC7_30m_Benthic_T3",34.46535116,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"439","Seychelles","Desroches","Desroches S1","YS_D297_DES_S1_VC8_VC7_250m_Benthic_T1",267.299077,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"440","Seychelles","Desroches","Desroches S1","YS_D297_DES_S1_VC8_VC7_250m_Benthic_T2",263.2742301,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"441","Seychelles","Desroches","Desroches S1","YS_D297_DES_S1_VC8_VC7_250m_Benthic_T3",263.2836478,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"442","Seychelles","Desroches","Desroches S1","YS_D307_DES_S1_VC5_VC6_120m_Benthic_T1",121.4006933,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"443","Seychelles","Desroches","Desroches S1","YS_D311_DES_S1_VC8_VC7_Benthic_60m_T1",66.78992943,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"444","Seychelles","Desroches","Desroches S1","YS_D311_DES_S1_VC8_VC7_Benthic_60m_T2",68.93794094,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"445","Seychelles","Desroches","Desroches S1","YS_D311_DES_S1_VC8_VC7_Benthic_60m_T3",66.10640377,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"446","Comoros","Anjouan","Anjouan A","R1_COM_AJ_A_UM",60,"intermediate","Upper",0,1,2,0,0,2,0,0,1,0,0,0,0,0,0
+"447","Comoros","Anjouan","Anjouan A","R2_COM_AJ_A_UM",60,"high","Upper",0,0,2,1,0,2,0,0,1,2,0,0,0,0,0
+"448","Comoros","Anjouan","Anjouan A","R3_COM_AJ_A_UM",50,"high","Upper",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+"449","Comoros","Anjouan","Anjouan A","R5_COM_AJ_A_MM",85,"intermediate","Lower",0,0,0,0,0,3,0,1,1,5,0,0,0,0,0
+"450","Comoros","Anjouan","Anjouan B","R6_COM_AJ_B_LM",100,"low","Lower",0,0,3,0,0,2,0,0,1,0,0,0,0,0,0
+"451","Comoros","Anjouan","Anjouan B","R8_COM_AJ_B_UM T1",60,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"452","Comoros","Anjouan","Anjouan B","R10_COM_AJ_B_UM T1",50,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"453","Comoros","Anjouan","Anjouan B","R10_COM_AJ_B_UM T2",80,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"454","Comoros","Anjouan","Anjouan B","R10_COM_AJ_B_UM T3",100,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"455","Comoros","Anjouan","Anjouan C","R11_COM_AJ_C_MM T1",85,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"456","Comoros","Anjouan","Anjouan C","R11_COM_AJ_C_MM T2",85,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"457","Comoros","Anjouan","Anjouan C","R11_COM_AJ_C_MM T3",100,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"458","Comoros","Anjouan","Anjouan C","R11_COM_AJ_C_MM T4",100,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"459","Comoros","Anjouan","Anjouan C","R13_COM_AJ_C_UM",37,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"460","Comoros","Grande Comore","Grande Comore B","R17_COM_GC_B_UM T1",65,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"461","Comoros","Grande Comore","Grande Comore B","R17_COM_GC_B_UM T2",80,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"462","Comoros","Grande Comore","Grande Comore B","R17_COM_GC_B_UM T3",100,"high","Lower",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"463","Comoros","Grande Comore","Grande Comore A","R19_COM_GC_A_MM",80,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"464","Comoros","Grande Comore","Grande Comore A","R20_COM_GC_A_LM_T1",110,"low","Lower",0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+"465","Comoros","Grande Comore","Grande Comore A","R20_COM_GC_A_LM_T2",110,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"466","Comoros","Grande Comore","Grande Comore A","R22_COM_GC_A_UM",50,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"467","Comoros","Moheli","Moheli E","R23_COM_MW_E_UM",53,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"468","Comoros","Moheli","Moheli E","R24_COM_MW_E_UM",63,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"469","Comoros","Moheli","Moheli E","R25_COM_MW_E_MM",73,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"470","Comoros","Moheli","Moheli E","R26_COM_MW_E_LM T1",100,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"471","Comoros","Moheli","Moheli E","R26_COM_MW_E_LM T2",100,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"472","Comoros","Moheli","Moheli E","R27_COM_MW_E_MM",80,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"473","Comoros","Moheli","Moheli D","R28_COM_MW_D_LM",100,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"474","Comoros","Moheli","Moheli D","R29_COM_MW_D_UM T1",60,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"475","Comoros","Moheli","Moheli D","R29_COM_MW_D_MM T2",80,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"476","Comoros","Moheli","Moheli B","R30_COM_MW_B_LM T1",122,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"477","Comoros","Moheli","Moheli B","R30_COM_MW_B_LM T2",122,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"478","Comoros","Moheli","Moheli B","R31_COM_MW_B_UM T1",60,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"479","Comoros","Moheli","Moheli B","R31_COM_MW_B_UM T2",60,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"480","Comoros","Moheli","Moheli B","R32_COM_MW_B_LM",102,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"481","Comoros","Moheli","Moheli A","R33_COM_MW_A_MM T1",85,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"482","Comoros","Moheli","Moheli A","R33_COM_MW_A_MM T2",85,"intermediate","Lower",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"483","Comoros","Moheli","Moheli A","R34_COM_MW_A_UM",63,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"484","Comoros","Grande Comore","Grande Comore B","R36_COM_GC_B_UM T1",61,"high","Lower",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"485","Comoros","Grande Comore","Grande Comore B","R36_COM_GC_B_MM T2",86,"intermediate","Lower",0,1,2,0,0,2,0,0,2,0,0,1,0,0,0
+"486","Comoros","Grande Comore","Grande Comore A","GC_A_P_SC05",6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"487","Comoros","Grande Comore","Grande Comore A","GC_A_P_SC06",7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"488","Comoros","Grande Comore","Grande Comore B","GC_B_P_SC07",7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"489","Comoros","Grande Comore","Grande Comore B","GC_B_P_SC08",7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"490","Comoros","Moheli","Moheli E","MW_E_P_SC09",7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"491","Comoros","Moheli","Moheli E","MW_E_P_SC10",7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"492","Comoros","Moheli","Moheli E","MW_E_P_SC11",6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"493","Comoros","Moheli","Moheli E","MW_E_P_SC12",9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"494","Comoros","Moheli","Moheli D","MW_D_P_SC13",10,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"495","Comoros","Moheli","Moheli D","MW_D_P_SC14",6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"496","Comoros","Moheli","Moheli B","MW_B_P_SC16",6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"497","Comoros","Moheli","Moheli B","MW_B_P_SC17",7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"498","Comoros","Moheli","Moheli B","MW_B_P_SC18",6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"499","Comoros","Moheli","Moheli A","MW_A_P_SC19",6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"500","Comoros","Moheli","Moheli A","MW_A_P_SC20",8,"high","Shallow",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"501","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","16",12.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"502","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","17",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"503","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","18",10.6,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"504","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","19",7,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"505","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","20",7.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"506","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","21",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"507","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","22",5.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"508","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","23",4.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"509","Brazil","Fernando_de_Noronha","ponta_norte","31",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"510","Brazil","Fernando_de_Noronha","ponta_norte","32",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"511","Brazil","Fernando_de_Noronha","ponta_norte","33",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"512","Brazil","Fernando_de_Noronha","ponta_norte","34",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"513","Brazil","Fernando_de_Noronha","ponta_norte","35",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"514","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","45",6.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"515","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","46",6.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"516","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","47",6.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"517","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","48",6.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"518","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","50",9.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"519","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","51",7.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"520","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","52",6.7,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"521","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","1",49.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"522","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","2",49.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"523","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","3",49.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"524","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","4",49.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"525","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","5",42.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"526","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","6",42.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"527","Brazil","Fernando_de_Noronha","corveta_ipiranga","7",54.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"528","Brazil","Fernando_de_Noronha","corveta_ipiranga","8",54.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"529","Brazil","Fernando_de_Noronha","corveta_ipiranga","9",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"530","Brazil","Fernando_de_Noronha","corveta_ipiranga","10",51.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"531","Brazil","Fernando_de_Noronha","corveta_ipiranga","11",47,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"532","Brazil","Fernando_de_Noronha","cabeco_2_irmaos","36",43.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"533","Brazil","Fernando_de_Noronha","corveta_ipiranga","37",56.1,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"534","Brazil","Fernando_de_Noronha","corveta_ipiranga","38",57.6,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"535","Brazil","Fernando_de_Noronha","corveta_ipiranga","39",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"536","Brazil","Fernando_de_Noronha","corveta_ipiranga","40",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"537","Brazil","Fernando_de_Noronha","corveta_ipiranga","41",45.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"538","Brazil","Fernando_de_Noronha","gregos_wall_(fishing_spot)","25",81.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"539","Brazil","Fernando_de_Noronha","gregos_wall_(fishing_spot)","26",81.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"540","Brazil","Fernando_de_Noronha","ponta_norte","29",84.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"541","Brazil","Fernando_de_Noronha","ponta_norte","30",81.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"542","Brazil","Fernando_de_Noronha","ponta_norte","54",84.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"543","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","12",91.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"544","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","13",91.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"545","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","14",103,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"546","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","15",103,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"547","Brazil","Fernando_de_Noronha","gregos_wall_(fishing_spot)","24",109.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"548","Brazil","Fernando_de_Noronha","ponta_norte","27",107.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"549","Brazil","Fernando_de_Noronha","ponta_norte","28",107.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"550","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","42",95.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"551","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","43",93.9,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"552","Brazil","Fernando_de_Noronha","sapata_(hudsons_wall)","44",110.225,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"553","Brazil","Fernando_de_Noronha","gregos_wall_(fishing_spot)","49",89.65333333,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"554","Brazil","Fernando_de_Noronha","ponta_norte","53",110.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"555","Guam","Guam","blue_hole","5",16.7,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"556","Guam","Guam","blue_hole","6",9.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"557","Guam","Guam","blue_hole","7",6.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"558","Guam","Guam","oca_point","8",13.6,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"559","Guam","Guam","oca_point","9",6.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"560","Guam","Guam","blue_hole","15",9.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"561","Guam","Guam","blue_hole","21",15.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"562","Guam","Guam","blue_hole","22",13.6,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"563","Guam","Guam","blue_hole","23",10.6,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"564","Guam","Guam","blue_hole","24",10.6,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"565","Guam","Guam","blue_hole","25",7.6,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"566","Guam","Guam","oca_point","29",12.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"567","Guam","Guam","oca_point","30",9.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"568","Guam","Guam","oca_point","31",9.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"569","Guam","Guam","oca_point","32",6.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"570","Guam","Guam","blue_hole","44",15.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"571","Guam","Guam","blue_hole","45",15.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"572","Guam","Guam","blue_hole","46",12.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"573","Guam","Guam","blue_hole","47",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"574","Guam","Guam","blue_hole","13",47,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"575","Guam","Guam","blue_hole","14",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"576","Guam","Guam","blue_hole","20",39.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"577","Guam","Guam","the_wall","28",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"578","Guam","Guam","blue_hole","40",45.5,"high","Upper",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"579","Guam","Guam","blue_hole","41",45.5,"high","Upper",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"580","Guam","Guam","blue_hole","42",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"581","Guam","Guam","blue_hole","43",33.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"582","Guam","Guam","blue_hole","1",83.3,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"583","Guam","Guam","blue_hole","2",81.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"584","Guam","Guam","blue_hole","3",69.7,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"585","Guam","Guam","blue_hole","4",65.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"586","Guam","Guam","blue_hole","12",60.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"587","Guam","Guam","blue_hole","16",84.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"588","Guam","Guam","blue_hole","17",84.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"589","Guam","Guam","blue_hole","18",69.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"590","Guam","Guam","blue_hole","19",69.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"591","Guam","Guam","blue_hole","38",60.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"592","Guam","Guam","blue_hole","39",60.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"593","Guam","Guam","blue_hole","10",112.1,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"594","Guam","Guam","blue_hole","11",90.9,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"595","Guam","Guam","the_wall","26",100,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"596","Guam","Guam","the_wall","27",100,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"597","Guam","Guam","blue_hole","33",112.1,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"598","Guam","Guam","blue_hole","34",112.1,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"599","Guam","Guam","blue_hole","35",90.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"600","Guam","Guam","blue_hole","36",90.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"601","Guam","Guam","blue_hole","37",90.9,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"602","United States","Hawaii","otec","6",19.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"603","United States","Hawaii","otec","7",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"604","United States","Hawaii","otec","8",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"605","United States","Hawaii","otec","9",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"606","United States","Hawaii","outhouse","15",24.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"607","United States","Hawaii","outhouse","16",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"608","United States","Hawaii","outhouse","17",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"609","United States","Hawaii","outhouse","18",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"610","United States","Hawaii","outhouse","19",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"611","United States","Hawaii","outhouse","20",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"612","United States","Hawaii","outhouse","21",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"613","United States","Hawaii","outhouse","22",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"614","United States","Hawaii","outhouse","23",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"615","United States","Hawaii","outhouse","24",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"616","United States","Hawaii","black_pebble","32",28.8,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"617","United States","Hawaii","black_pebble","33",25.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"618","United States","Hawaii","black_pebble","34",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"619","United States","Hawaii","black_pebble","35",19.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"620","United States","Hawaii","black_pebble","36",16.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"621","United States","Hawaii","black_pebble","37",13.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"622","United States","Hawaii","eel_cove","44",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"623","United States","Hawaii","eel_cove","45",19.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"624","United States","Hawaii","eel_cove","46",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"625","United States","Hawaii","eel_cove","47",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"626","United States","Hawaii","eel_cove","48",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"627","United States","Hawaii","eel_cove","49",7.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"628","United States","Hawaii","eel_cove","50",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"629","United States","Hawaii","eel_cove","51",5.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"630","United States","Hawaii","otec","57",8.5,"high","Shallow",0,0,0,0,0,0,4,0,0,0,0,0,1,0,0
+"631","United States","Hawaii","outhouse","58",15.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"632","United States","Hawaii","outhouse","59",9.1,"high","Shallow",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"633","United States","Hawaii","black_pebble","70",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"634","United States","Hawaii","eel_cove","76",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"635","United States","Hawaii","eel_cove","77",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"636","United States","Hawaii","eel_cove","78",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"637","United States","Hawaii","eel_cove","79",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"638","United States","Hawaii","eel_cove","80",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"639","United States","Hawaii","eel_cove","82",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"640","United States","Hawaii","otec","3",54.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"641","United States","Hawaii","otec","4",47,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"642","United States","Hawaii","otec","5",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"643","United States","Hawaii","outhouse","13",37.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"644","United States","Hawaii","outhouse","14",31.8,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"645","United States","Hawaii","black_pebble","30",43.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"646","United States","Hawaii","black_pebble","31",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"647","United States","Hawaii","eel_cove","41",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"648","United States","Hawaii","eel_cove","42",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"649","United States","Hawaii","eel_cove","43",33.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"650","United States","Hawaii","otec","55",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"651","United States","Hawaii","otec","56",37.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"652","United States","Hawaii","outhouse","62",30.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"653","United States","Hawaii","outhouse","63",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"654","United States","Hawaii","outhouse","64",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"655","United States","Hawaii","outhouse","65",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"656","United States","Hawaii","black_pebble","69",47,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"657","United States","Hawaii","eel_cove","73",56.1,"intermediate","Upper",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"658","United States","Hawaii","eel_cove","74",36.4,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"659","United States","Hawaii","eel_cove","75",31.8,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"660","United States","Hawaii","otec","1",68.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"661","United States","Hawaii","otec","2",68.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"662","United States","Hawaii","outhouse","11",72.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"663","United States","Hawaii","outhouse","12",56.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"664","United States","Hawaii","black_pebble","28",68.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"665","United States","Hawaii","black_pebble","29",65.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"666","United States","Hawaii","eel_cove","40",63.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"667","United States","Hawaii","otec","53",64.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"668","United States","Hawaii","otec","54",60.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"669","United States","Hawaii","outhouse","61",66.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"670","United States","Hawaii","black_pebble","68",74.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"671","United States","Hawaii","outhouse","10",119.7,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"672","United States","Hawaii","black_pebble","25",101.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"673","United States","Hawaii","black_pebble","26",101.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"674","United States","Hawaii","black_pebble","27",92.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"675","United States","Hawaii","eel_cove","38",121.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"676","United States","Hawaii","eel_cove","39",121.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"677","United States","Hawaii","outhouse","60",113.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"678","United States","Hawaii","black_pebble","66",97,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"679","United States","Hawaii","black_pebble","67",97,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"680","United States","Hawaii","eel_cove","52",139.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"681","United States","Hawaii","eel_cove","71",125.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"682","United States","Hawaii","eel_cove","72",125.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"683","United States","Hawaii","eel_cove","81",141.8,"high","Lower",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"684","Marshall Islands","Marshall_Islands","erikub_atoll","5",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"685","Marshall Islands","Marshall_Islands","erikub_atoll","6",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"686","Marshall Islands","Marshall_Islands","erikub_atoll","7",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"687","Marshall Islands","Marshall_Islands","erikub_atoll","8",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"688","Marshall Islands","Marshall_Islands","erikub_atoll","9",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"689","Marshall Islands","Marshall_Islands","erikub_atoll","10",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"690","Marshall Islands","Marshall_Islands","wotje_atoll","14",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"691","Marshall Islands","Marshall_Islands","wotje_atoll","15",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"692","Marshall Islands","Marshall_Islands","wotje_atoll","16",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"693","Marshall Islands","Marshall_Islands","wotje_atoll","17",9.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"694","Marshall Islands","Marshall_Islands","wotje_atoll","18",6.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"695","Marshall Islands","Marshall_Islands","wotje_atoll","19",6.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"696","Marshall Islands","Marshall_Islands","wotje_atoll","20",4.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"697","Marshall Islands","Marshall_Islands","erikub_atoll_2","21",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"698","Marshall Islands","Marshall_Islands","erikub_atoll_2","22",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"699","Marshall Islands","Marshall_Islands","maleolap_atoll","28",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"700","Marshall Islands","Marshall_Islands","maleolap_atoll","29",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"701","Marshall Islands","Marshall_Islands","maleolap_atoll","30",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"702","Marshall Islands","Marshall_Islands","maleolap_atoll","31",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"703","Marshall Islands","Marshall_Islands","maleolap_atoll","32",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"704","Marshall Islands","Marshall_Islands","maleolap_atoll","33",3.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"705","Marshall Islands","Marshall_Islands","maleolap_atoll","34",3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"706","Marshall Islands","Marshall_Islands","maleolap_atoll","35",3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"707","Marshall Islands","Marshall_Islands","maleolap_atoll","36",4.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"708","Marshall Islands","Marshall_Islands","maleolap_2","37",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"709","Marshall Islands","Marshall_Islands","maleolap_2","38",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"710","Marshall Islands","Marshall_Islands","maleolap_2","39",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"711","Marshall Islands","Marshall_Islands","maleolap_2","40",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"712","Marshall Islands","Marshall_Islands","maleolap_2","41",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"713","Marshall Islands","Marshall_Islands","maleolap_2","42",3.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"714","Marshall Islands","Marshall_Islands","laura","43",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"715","Marshall Islands","Marshall_Islands","laura","44",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"716","Marshall Islands","Marshall_Islands","arno_atoll","45",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"717","Marshall Islands","Marshall_Islands","arno_atoll","46",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"718","Marshall Islands","Marshall_Islands","arno_atoll","47",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"719","Marshall Islands","Marshall_Islands","arno_atoll","48",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"720","Marshall Islands","Marshall_Islands","arno_atoll","49",4.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"721","Marshall Islands","Marshall_Islands","arno_atoll","50",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"722","Marshall Islands","Marshall_Islands","erikub_atoll","54",27.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"723","Marshall Islands","Marshall_Islands","erikub_atoll","55",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"724","Marshall Islands","Marshall_Islands","erikub_atoll","56",16.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"725","Marshall Islands","Marshall_Islands","erikub_atoll","57",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"726","Marshall Islands","Marshall_Islands","erikub_atoll","58",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"727","Marshall Islands","Marshall_Islands","erikub_atoll","59",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"728","Marshall Islands","Marshall_Islands","wotje_atoll","63",27.3,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"729","Marshall Islands","Marshall_Islands","wotje_atoll","64",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"730","Marshall Islands","Marshall_Islands","wotje_atoll","65",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"731","Marshall Islands","Marshall_Islands","wotje_atoll","66",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"732","Marshall Islands","Marshall_Islands","wotje_atoll","67",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"733","Marshall Islands","Marshall_Islands","wotje_atoll","68",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"734","Marshall Islands","Marshall_Islands","wotje_atoll","69",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"735","Marshall Islands","Marshall_Islands","erikub_atoll_2","70",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"736","Marshall Islands","Marshall_Islands","erikub_atoll_2","71",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"737","Marshall Islands","Marshall_Islands","maleolap_atoll","77",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"738","Marshall Islands","Marshall_Islands","maleolap_atoll","78",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"739","Marshall Islands","Marshall_Islands","maleolap_atoll","79",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"740","Marshall Islands","Marshall_Islands","maleolap_atoll","80",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"741","Marshall Islands","Marshall_Islands","maleolap_atoll","81",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"742","Marshall Islands","Marshall_Islands","bokoen_atoll","82",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"743","Marshall Islands","Marshall_Islands","bokoen_atoll","83",15.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"744","Marshall Islands","Marshall_Islands","bokoen_atoll","84",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"745","Marshall Islands","Marshall_Islands","bokoen_atoll","85",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"746","Marshall Islands","Marshall_Islands","bokoen_atoll","86",4.5,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"747","Marshall Islands","Marshall_Islands","erikub_atoll","1",48.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"748","Marshall Islands","Marshall_Islands","erikub_atoll","2",48.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"749","Marshall Islands","Marshall_Islands","erikub_atoll","3",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"750","Marshall Islands","Marshall_Islands","erikub_atoll","4",37.9,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"751","Marshall Islands","Marshall_Islands","maleolap_atoll","26",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"752","Marshall Islands","Marshall_Islands","maleolap_atoll","27",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"753","Marshall Islands","Marshall_Islands","erikub_atoll","53",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"754","Marshall Islands","Marshall_Islands","maleolap_atoll","74",36.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"755","Marshall Islands","Marshall_Islands","maleolap_atoll","76",31.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"756","Marshall Islands","Marshall_Islands","wotje_atoll","13",81.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"757","Marshall Islands","Marshall_Islands","maleolap_atoll","25",66.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"758","Marshall Islands","Marshall_Islands","wotje_atoll","62",80.3,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"759","Marshall Islands","Marshall_Islands","maleolap_atoll","75",65.2,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"760","Marshall Islands","Marshall_Islands","wotje_atoll","12",93.9,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"761","Marshall Islands","Marshall_Islands","maleolap_atoll","24",109.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"762","Marshall Islands","Marshall_Islands","erikub_atoll","51",112.1,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"763","Marshall Islands","Marshall_Islands","erikub_atoll","52",100,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"764","Marshall Islands","Marshall_Islands","wotje_atoll","61",101.5,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"765","Marshall Islands","Marshall_Islands","maleolap_atoll","73",106.1,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"766","Marshall Islands","Marshall_Islands","wotje_atoll","11",127.3,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"767","Marshall Islands","Marshall_Islands","maleolap_atoll","23",125.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"768","Marshall Islands","Marshall_Islands","wotje_atoll","60",125.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"769","Marshall Islands","Marshall_Islands","maleolap_atoll","72",127.3,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"770","French Polynesia","Moorea","cooks_bay_channel","4",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"771","French Polynesia","Moorea","cooks_bay_channel","5",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"772","French Polynesia","Moorea","cooks_bay_channel","6",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"773","French Polynesia","Moorea","hotel_sofitel","7",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"774","French Polynesia","Moorea","hotel_sofitel","8",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"775","French Polynesia","Moorea","hotel_sofitel","9",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"776","French Polynesia","Moorea","hotel_sofitel","10",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"777","French Polynesia","Moorea","hotel_sofitel","11",9.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"778","French Polynesia","Moorea","hotel_sofitel","12",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"779","French Polynesia","Moorea","hotel_sofitel","13",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"780","French Polynesia","Moorea","hotel_sofitel","14",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"781","French Polynesia","Moorea","hotel_sofitel","15",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"782","French Polynesia","Moorea","hotel_sofitel","16",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"783","French Polynesia","Moorea","hotel_sofitel","17",27.3,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"784","French Polynesia","Moorea","hotel_sofitel","18",21.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"785","French Polynesia","Moorea","hotel_sofitel","19",18.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"786","French Polynesia","Moorea","hotel_sofitel","20",12.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"787","French Polynesia","Moorea","hotel_sofitel","21",9.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"788","French Polynesia","Moorea","hotel_sofitel","22",7.6,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"789","French Polynesia","Moorea","hotel_sofitel","23",7,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"790","French Polynesia","Moorea","hotel_sofitel","24",4.5,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"791","French Polynesia","Moorea","hotel_sofitel","25",3.9,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"792","French Polynesia","Moorea","hotel_sofitel","38",25.8,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"793","French Polynesia","Moorea","hotel_sofitel","39",21.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"794","French Polynesia","Moorea","hotel_sofitel","40",16.7,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"795","French Polynesia","Moorea","hotel_sofitel","41",15.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"796","French Polynesia","Moorea","hotel_sofitel","42",9.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"797","French Polynesia","Moorea","hotel_sofitel","43",7.6,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"798","French Polynesia","Moorea","hotel_sofitel","44",4.5,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"799","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","50",27.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"800","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","51",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"801","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","52",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"802","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","53",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"803","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","54",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"804","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","55",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"805","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","56",5.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"806","French Polynesia","Moorea","cooks_bay_channel","60",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"807","French Polynesia","Moorea","hotel_sofitel","64",21.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"808","French Polynesia","Moorea","hotel_sofitel","65",18.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"809","French Polynesia","Moorea","hotel_sofitel","66",12.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"810","French Polynesia","Moorea","hotel_sofitel","67",7.6,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"811","French Polynesia","Moorea","hotel_sofitel","68",6.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"812","French Polynesia","Moorea","hotel_sofitel","69",3.9,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"813","French Polynesia","Moorea","hotel_sofitel","71",24.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"814","French Polynesia","Moorea","hotel_sofitel","72",18.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"815","French Polynesia","Moorea","hotel_sofitel","73",15.2,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"816","French Polynesia","Moorea","hotel_sofitel","74",12.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"817","French Polynesia","Moorea","hotel_sofitel","75",9.1,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"818","French Polynesia","Moorea","hotel_sofitel","76",4.5,NA,"Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"819","French Polynesia","Moorea","cooks_bay_channel","1",40.9,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"820","French Polynesia","Moorea","cooks_bay_channel","2",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"821","French Polynesia","Moorea","cooks_bay_channel","3",54.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"822","French Polynesia","Moorea","hotel_sofitel","35",50,NA,"Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"823","French Polynesia","Moorea","hotel_sofitel","36",39.4,NA,"Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"824","French Polynesia","Moorea","hotel_sofitel","37",34.8,NA,"Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"825","French Polynesia","Moorea","cooks_bay_channel","57",37.9,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"826","French Polynesia","Moorea","cooks_bay_channel","58",48.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"827","French Polynesia","Moorea","cooks_bay_channel","59",53,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"828","French Polynesia","Moorea","hotel_sofitel","63",30.3,NA,"Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"829","French Polynesia","Moorea","hotel_sofitel","70",33.3,NA,"Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"830","French Polynesia","Moorea","hotel_sofitel","28",63.6,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"831","French Polynesia","Moorea","hotel_sofitel","31",81.8,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"832","French Polynesia","Moorea","hotel_sofitel","32",81.8,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"833","French Polynesia","Moorea","hotel_sofitel","33",65.2,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"834","French Polynesia","Moorea","hotel_sofitel","34",65.2,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"835","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","47",78.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"836","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","48",78.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"837","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","49",66.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"838","French Polynesia","Moorea","hotel_sofitel","26",112.1,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"839","French Polynesia","Moorea","hotel_sofitel","27",93.9,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"840","French Polynesia","Moorea","hotel_sofitel","29",109.1,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"841","French Polynesia","Moorea","hotel_sofitel","30",95.5,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"842","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","45",98.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"843","French Polynesia","Moorea","rose_garden_(belvedere_bay_entrance)","46",98.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"844","French Polynesia","Moorea","hotel_sofitel","61",115.2,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"845","French Polynesia","Moorea","hotel_sofitel","62",95.5,NA,"Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"846","Palau","Palau","angaur_island","4",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"847","Palau","Palau","angaur_island","5",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"848","Palau","Palau","angaur_island","6",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"849","Palau","Palau","angaur_island","7",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"850","Palau","Palau","short_dropoff","14",22.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"851","Palau","Palau","short_dropoff","15",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"852","Palau","Palau","short_dropoff","16",13.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"853","Palau","Palau","short_dropoff","17",7.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"854","Palau","Palau","short_dropoff","18",7.6,"high","Shallow",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"855","Palau","Palau","short_dropoff","19",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"856","Palau","Palau","short_dropoff","20",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"857","Palau","Palau","short_dropoff","11",48.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"858","Palau","Palau","short_dropoff","12",48.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"859","Palau","Palau","short_dropoff","13",42.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"860","Palau","Palau","angaur_island","3",66.7,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"861","Palau","Palau","short_dropoff","8",86.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"862","Palau","Palau","short_dropoff","9",86.4,"high","Lower",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"863","Palau","Palau","short_dropoff","10",63.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"864","Palau","Palau","angaur_island","1",95.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"865","Palau","Palau","angaur_island","2",95.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"866","Philippines","Philippines","layag_layag","21",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"867","Philippines","Philippines","layag_layag","22",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"868","Philippines","Philippines","layag_layag","23",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"869","Philippines","Philippines","layag_layag","24",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"870","Philippines","Philippines","layag_layag","25",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"871","Philippines","Philippines","layag_layag","26",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"872","Philippines","Philippines","dive_and_trek","27",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"873","Philippines","Philippines","dive_and_trek","28",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"874","Philippines","Philippines","dive_and_trek","29",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"875","Philippines","Philippines","dive_and_trek","30",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"876","Philippines","Philippines","dive_and_trek","31",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"877","Philippines","Philippines","dive_and_trek","32",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"878","Philippines","Philippines","dive_and_trek","33",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"879","Philippines","Philippines","dive_and_trek","34",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"880","Philippines","Philippines","dive_and_trek","35",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"881","Philippines","Philippines","dive_and_trek","36",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"882","Philippines","Philippines","dive_and_trek","37",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"883","Philippines","Philippines","dive_and_trek","38",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"884","Philippines","Philippines","dive_and_trek","39",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"885","Philippines","Philippines","dive_and_trek","40",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"886","Philippines","Philippines","dive_and_trek","41",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"887","Philippines","Philippines","dive_and_trek","42",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"888","Philippines","Philippines","devil_point","43",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"889","Philippines","Philippines","devil_point","44",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"890","Philippines","Philippines","devil_point","45",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"891","Philippines","Philippines","devil_point","46",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"892","Philippines","Philippines","devil_point","47",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"893","Philippines","Philippines","devil_point","48",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"894","Philippines","Philippines","devil_point","49",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"895","Philippines","Philippines","devil_point","50",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"896","Philippines","Philippines","devil_point","51",3.9,"high","Shallow",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"897","Philippines","Philippines","layag_layag","52",21.2,"low","Shallow",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"898","Philippines","Philippines","layag_layag","53",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"899","Philippines","Philippines","layag_layag","54",15.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"900","Philippines","Philippines","layag_layag","55",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"901","Philippines","Philippines","layag_layag","56",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"902","Philippines","Philippines","layag_layag","57",7.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"903","Philippines","Philippines","layag_layag","58",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"904","Philippines","Philippines","layag_layag","59",4.8,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"905","Philippines","Philippines","layag_layag","60",4.8,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"906","Philippines","Philippines","dive_and_trek","61",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"907","Philippines","Philippines","dive_and_trek","62",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"908","Philippines","Philippines","dive_and_trek","63",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"909","Philippines","Philippines","dive_and_trek","64",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"910","Philippines","Philippines","dive_and_trek","65",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"911","Philippines","Philippines","dive_and_trek","66",10.6,"high","Shallow",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"912","Philippines","Philippines","dive_and_trek","67",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"913","Philippines","Philippines","dive_and_trek","68",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"914","Philippines","Philippines","dive_and_trek","69",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"915","Philippines","Philippines","dive_and_trek","70",4.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"916","Philippines","Philippines","dive_and_trek","71",4.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"917","Philippines","Philippines","dive_and_trek","72",3.6,"intermediate","Shallow",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"918","Philippines","Philippines","dive_and_trek","73",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"919","Philippines","Philippines","dive_and_trek","74",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"920","Philippines","Philippines","dive_and_trek","75",15.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"921","Philippines","Philippines","dive_and_trek","76",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"922","Philippines","Philippines","dive_and_trek","77",9.1,"high","Shallow",0,0,0,0,2,0,0,2,0,0,0,0,3,0,0
+"923","Philippines","Philippines","dive_and_trek","78",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"924","Philippines","Philippines","dive_and_trek","79",7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"925","Philippines","Philippines","dive_and_trek","80",6.1,"high","Shallow",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"926","Philippines","Philippines","dive_and_trek","81",4.5,"high","Shallow",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"927","Philippines","Philippines","dive_and_trek","82",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"928","Philippines","Philippines","dive_and_trek","83",3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"929","Philippines","Philippines","abc","87",18.2,"low","Shallow",0,0,1,0,1,2,1,0,0,0,0,0,0,1,0
+"930","Philippines","Philippines","abc","88",13.6,"low","Shallow",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"931","Philippines","Philippines","dive_and_trek","93",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"932","Philippines","Philippines","dive_and_trek","94",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"933","Philippines","Philippines","dive_and_trek","95",9.1,"high","Shallow",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"934","Philippines","Philippines","dive_and_trek","96",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"935","Philippines","Philippines","dive_and_trek","97",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"936","Philippines","Philippines","dive_and_trek","100",18.2,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"937","Philippines","Philippines","dive_and_trek","101",16.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"938","Philippines","Philippines","dive_and_trek","105",24.8,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"939","Philippines","Philippines","dive_and_trek","106",22.7,"intermediate","Shallow",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+"940","Philippines","Philippines","dive_and_trek","107",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"941","Philippines","Philippines","dive_and_trek","108",10.3,"high","Shallow",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"942","Philippines","Philippines","dive_and_trek","109",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"943","Philippines","Philippines","dive_and_trek","110",5.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"944","Philippines","Philippines","dive_and_trek","115",13.9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"945","Philippines","Philippines","abc","85",48.5,"low","Upper",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"946","Philippines","Philippines","abc","86",30.3,"low","Upper",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"947","Philippines","Philippines","dive_and_trek","92",57.6,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"948","Philippines","Philippines","dive_and_trek","99",31.8,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+"949","Philippines","Philippines","dive_and_trek","103",39.4,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"950","Philippines","Philippines","dive_and_trek","104",31.8,"low","Upper",0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+"951","Philippines","Philippines","dive_and_trek","113",34.8,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+"952","Philippines","Philippines","dive_and_trek","114",31.2,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+"953","Philippines","Philippines","dive_and_trek","91",60.6,"high","Lower",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0
+"954","Philippines","Philippines","abc","84",92.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"955","Philippines","Philippines","dive_and_trek","89",103,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"956","Philippines","Philippines","dive_and_trek","90",103,"high","Lower",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"957","Philippines","Philippines","dive_and_trek","98",97,"high","Lower",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"958","Philippines","Philippines","dive_and_trek","111",110.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"959","Philippines","Philippines","dive_and_trek","102",128.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"960","Philippines","Philippines","dive_and_trek","112",147,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"961","Micronesia","Pohnpei","sgb","100",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"962","Micronesia","Pohnpei","sgb","101",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"963","Micronesia","Pohnpei","sgb","102",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"964","Micronesia","Pohnpei","sgb","103",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"965","Micronesia","Pohnpei","sgb","104",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"966","Micronesia","Pohnpei","sgb","105",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"967","Micronesia","Pohnpei","sgb","106",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"968","Micronesia","Pohnpei","sgb","107",5.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"969","Micronesia","Pohnpei","sgb","108",2.4,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"970","Micronesia","Pohnpei","ant_atoll","116",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"971","Micronesia","Pohnpei","ant_atoll","117",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"972","Micronesia","Pohnpei","ant_atoll","118",15.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"973","Micronesia","Pohnpei","ant_atoll","119",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"974","Micronesia","Pohnpei","ant_atoll","120",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"975","Micronesia","Pohnpei","ant_atoll","121",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"976","Micronesia","Pohnpei","ant_atoll","122",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"977","Micronesia","Pohnpei","ant_atoll","123",5.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"978","Micronesia","Pohnpei","ant_atoll","129",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"979","Micronesia","Pohnpei","ant_atoll","130",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"980","Micronesia","Pohnpei","ant_atoll","131",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"981","Micronesia","Pohnpei","sgb","137",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"982","Micronesia","Pohnpei","sgb","138",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"983","Micronesia","Pohnpei","sgb","139",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"984","Micronesia","Pohnpei","sgb","140",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"985","Micronesia","Pohnpei","sgb","141",6.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"986","Micronesia","Pohnpei","sgb","142",5.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"987","Micronesia","Pohnpei","sgb","143",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"988","Micronesia","Pohnpei","sgb","144",3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"989","Micronesia","Pohnpei","sgb","150",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"990","Micronesia","Pohnpei","sgb","4",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"991","Micronesia","Pohnpei","sgb","5",36.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"992","Micronesia","Pohnpei","ant_atoll","19",51.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"993","Micronesia","Pohnpei","ant_atoll","20",40.9,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"994","Micronesia","Pohnpei","ant_atoll","21",51.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"995","Micronesia","Pohnpei","ant_atoll","22",30.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"996","Micronesia","Pohnpei","channel_pass","28",57.6,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"997","Micronesia","Pohnpei","channel_pass","29",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"998","Micronesia","Pohnpei","sgb","37",54.5,NA,"Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"999","Micronesia","Pohnpei","new_drop_off_(brian_spot)","48",42.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1000","Micronesia","Pohnpei","brian_spot","59",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1001","Micronesia","Pohnpei","sgb","79",103,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1002","Micronesia","Pohnpei","sgb","80",103,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1003","Micronesia","Pohnpei","sgb","99",33.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1004","Micronesia","Pohnpei","ant_atoll","127",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1005","Micronesia","Pohnpei","ant_atoll","128",42.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1006","Micronesia","Pohnpei","sgb","136",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1007","Micronesia","Pohnpei","sgb","147",45.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1008","Micronesia","Pohnpei","sgb","148",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1009","Micronesia","Pohnpei","sgb","149",30.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1010","Micronesia","Pohnpei","sgb","97",75.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1011","Micronesia","Pohnpei","sgb","98",60.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1012","Micronesia","Pohnpei","ant_atoll","111",78.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1013","Micronesia","Pohnpei","ant_atoll","112",75.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1014","Micronesia","Pohnpei","ant_atoll","113",39.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1015","Micronesia","Pohnpei","ant_atoll","114",33.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1016","Micronesia","Pohnpei","ant_atoll","115",30.3,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1017","Micronesia","Pohnpei","ant_atoll","126",75.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1018","Micronesia","Pohnpei","sgb","135",65.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1019","Micronesia","Pohnpei","sgb","95",90.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1020","Micronesia","Pohnpei","sgb","96",90.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1021","Micronesia","Pohnpei","ant_atoll","125",106.1,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1022","Micronesia","Pohnpei","ant_atoll","109",121.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1023","Micronesia","Pohnpei","ant_atoll","110",121.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1024","Micronesia","Pohnpei","ant_atoll","124",136.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1025","Micronesia","Pohnpei","sgb","145",130.3,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1026","Micronesia","Pohnpei","sgb","146",130.3,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1027","Brazil","St_Paul_Rocks","bay","8",22.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1028","Brazil","St_Paul_Rocks","bay","9",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1029","Brazil","St_Paul_Rocks","bay","10",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1030","Brazil","St_Paul_Rocks","bay","16",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1031","Brazil","St_Paul_Rocks","bay","17",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1032","Brazil","St_Paul_Rocks","bay","18",15.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1033","Brazil","St_Paul_Rocks","bay","25",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1034","Brazil","St_Paul_Rocks","bay","26",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1035","Brazil","St_Paul_Rocks","bay","27",13.6,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1036","Brazil","St_Paul_Rocks","bay","28",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1037","Brazil","St_Paul_Rocks","bay","29",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1038","Brazil","St_Paul_Rocks","bay","30",9.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1039","Brazil","St_Paul_Rocks","bay","31",9.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1040","Brazil","St_Paul_Rocks","bay","7",32.1,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1041","Brazil","St_Paul_Rocks","bay","13",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1042","Brazil","St_Paul_Rocks","bay","14",48.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1043","Brazil","St_Paul_Rocks","bay","15",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1044","Brazil","St_Paul_Rocks","bay","23",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1045","Brazil","St_Paul_Rocks","bay","24",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1046","Brazil","St_Paul_Rocks","bay","1",78.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1047","Brazil","St_Paul_Rocks","bay","2",78.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1048","Brazil","St_Paul_Rocks","bay","3",69.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1049","Brazil","St_Paul_Rocks","bay","4",69.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1050","Brazil","St_Paul_Rocks","bay","5",60.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1051","Brazil","St_Paul_Rocks","bay","6",60.6,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1052","Brazil","St_Paul_Rocks","bay","21",62.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1053","Brazil","St_Paul_Rocks","bay","22",62.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1054","Brazil","St_Paul_Rocks","bay","11",106.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1055","Brazil","St_Paul_Rocks","bay","12",106.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1056","Brazil","St_Paul_Rocks","bay","19",92.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1057","Brazil","St_Paul_Rocks","bay","20",92.4,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1058","French Polynesia","Tahiti","saint_etienne","6",25.8,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1059","French Polynesia","Tahiti","saint_etienne","7",22.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1060","French Polynesia","Tahiti","saint_etienne","8",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1061","French Polynesia","Tahiti","saint_etienne","9",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1062","French Polynesia","Tahiti","saint_etienne","10",10.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1063","French Polynesia","Tahiti","saint_etienne","11",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1064","French Polynesia","Tahiti","saint_etienne","12",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1065","French Polynesia","Tahiti","saint_etienne","13",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1066","French Polynesia","Tahiti","tooth_of_athena","23",27.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1067","French Polynesia","Tahiti","tooth_of_athena","24",25.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1068","French Polynesia","Tahiti","tooth_of_athena","25",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1069","French Polynesia","Tahiti","tooth_of_athena","26",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1070","French Polynesia","Tahiti","tooth_of_athena","27",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1071","French Polynesia","Tahiti","le_zelee","34",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1072","French Polynesia","Tahiti","le_zelee","35",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1073","French Polynesia","Tahiti","le_zelee","36",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1074","French Polynesia","Tahiti","le_zelee","37",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1075","French Polynesia","Tahiti","le_zelee","38",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1076","French Polynesia","Tahiti","tooth_of_athena","43",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1077","French Polynesia","Tahiti","tooth_of_athena","44",19.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1078","French Polynesia","Tahiti","tooth_of_athena","45",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1079","French Polynesia","Tahiti","tooth_of_athena","46",7.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1080","French Polynesia","Tahiti","tooth_of_athena","47",5.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1081","French Polynesia","Tahiti","tooth_of_athena","48",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1082","French Polynesia","Tahiti","saint_etienne","54",21.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1083","French Polynesia","Tahiti","saint_etienne","55",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1084","French Polynesia","Tahiti","saint_etienne","56",7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1085","French Polynesia","Tahiti","saint_etienne","57",5.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1086","French Polynesia","Tahiti","saint_etienne","58",6.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1087","French Polynesia","Tahiti","la_faille","63",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1088","French Polynesia","Tahiti","la_faille","64",16.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1089","French Polynesia","Tahiti","la_faille","65",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1090","French Polynesia","Tahiti","la_faille","66",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1091","French Polynesia","Tahiti","la_faille","67",4.5,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1092","French Polynesia","Tahiti","la_faille","74",24.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1093","French Polynesia","Tahiti","la_faille","75",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1094","French Polynesia","Tahiti","la_faille","76",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1095","French Polynesia","Tahiti","la_faille","77",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1096","French Polynesia","Tahiti","saint_etienne","78",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1097","French Polynesia","Tahiti","saint_etienne","79",3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1098","French Polynesia","Tahiti","tooth_of_athena","80",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1099","French Polynesia","Tahiti","le_zelee","87",25.8,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1100","French Polynesia","Tahiti","le_zelee","88",18.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1101","French Polynesia","Tahiti","le_zelee","89",12.1,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1102","French Polynesia","Tahiti","le_zelee","90",9.1,"low","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1103","French Polynesia","Tahiti","le_zelee","91",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1104","French Polynesia","Tahiti","tooth_of_athena","96",22.7,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1105","French Polynesia","Tahiti","tooth_of_athena","97",18.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1106","French Polynesia","Tahiti","tooth_of_athena","98",13.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1107","French Polynesia","Tahiti","tooth_of_athena","99",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1108","French Polynesia","Tahiti","tooth_of_athena","100",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1109","French Polynesia","Tahiti","tooth_of_athena","101",3.9,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1110","French Polynesia","Tahiti","saint_etienne","107",24.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1111","French Polynesia","Tahiti","saint_etienne","108",15.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1112","French Polynesia","Tahiti","saint_etienne","109",9.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1113","French Polynesia","Tahiti","saint_etienne","110",3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1114","French Polynesia","Tahiti","saint_etienne","111",3.6,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1115","French Polynesia","Tahiti","la_faille","116",27.3,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1116","French Polynesia","Tahiti","la_faille","117",16.7,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1117","French Polynesia","Tahiti","la_faille","118",10,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1118","French Polynesia","Tahiti","la_faille","119",6.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1119","French Polynesia","Tahiti","la_faille","120",5.2,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1120","French Polynesia","Tahiti","la_faille","124",21.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1121","French Polynesia","Tahiti","la_faille","125",12.1,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1122","French Polynesia","Tahiti","la_faille","126",4.5,"high","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1123","French Polynesia","Tahiti","la_faille","127",5.2,"intermediate","Shallow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1124","French Polynesia","Tahiti","saint_etienne","3",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1125","French Polynesia","Tahiti","saint_etienne","4",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1126","French Polynesia","Tahiti","saint_etienne","5",31.8,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1127","French Polynesia","Tahiti","tooth_of_athena","18",59.1,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1128","French Polynesia","Tahiti","tooth_of_athena","19",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1129","French Polynesia","Tahiti","tooth_of_athena","20",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1130","French Polynesia","Tahiti","tooth_of_athena","21",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1131","French Polynesia","Tahiti","tooth_of_athena","22",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1132","French Polynesia","Tahiti","le_zelee","32",51.5,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1133","French Polynesia","Tahiti","le_zelee","33",34.8,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1134","French Polynesia","Tahiti","tooth_of_athena","42",33.3,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1135","French Polynesia","Tahiti","saint_etienne","52",48.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1136","French Polynesia","Tahiti","saint_etienne","53",33.3,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1137","French Polynesia","Tahiti","la_faille","62",39.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1138","French Polynesia","Tahiti","la_faille","71",51.5,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1139","French Polynesia","Tahiti","la_faille","72",51.5,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1140","French Polynesia","Tahiti","la_faille","73",36.4,"intermediate","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1141","French Polynesia","Tahiti","le_zelee","85",53,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1142","French Polynesia","Tahiti","le_zelee","86",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1143","French Polynesia","Tahiti","tooth_of_athena","95",36.4,"low","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1144","French Polynesia","Tahiti","saint_etienne","105",53,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1145","French Polynesia","Tahiti","saint_etienne","106",36.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1146","French Polynesia","Tahiti","la_faille","115",42.4,"high","Upper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1147","French Polynesia","Tahiti","saint_etienne","1",62.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1148","French Polynesia","Tahiti","saint_etienne","2",62.1,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1149","French Polynesia","Tahiti","tooth_of_athena","16",87.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1150","French Polynesia","Tahiti","tooth_of_athena","17",87.9,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1151","French Polynesia","Tahiti","le_zelee","31",66.7,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1152","French Polynesia","Tahiti","saint_etienne","51",83.3,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1153","French Polynesia","Tahiti","la_faille","61",83.3,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1154","French Polynesia","Tahiti","la_faille","69",66.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1155","French Polynesia","Tahiti","la_faille","70",65.2,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1156","French Polynesia","Tahiti","le_zelee","84",66.7,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1157","French Polynesia","Tahiti","saint_etienne","104",80.3,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1158","French Polynesia","Tahiti","la_faille","114",78.8,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1159","French Polynesia","Tahiti","la_faille","122",72.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1160","French Polynesia","Tahiti","la_faille","123",72.7,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1161","French Polynesia","Tahiti","tooth_of_athena","14",100,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1162","French Polynesia","Tahiti","tooth_of_athena","15",100,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1163","French Polynesia","Tahiti","le_zelee","29",113.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1164","French Polynesia","Tahiti","le_zelee","30",95.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1165","French Polynesia","Tahiti","tooth_of_athena","40",110.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1166","French Polynesia","Tahiti","tooth_of_athena","41",92.4,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1167","French Polynesia","Tahiti","saint_etienne","50",107.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1168","French Polynesia","Tahiti","la_faille","60",112.1,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1169","French Polynesia","Tahiti","la_faille","68",104.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1170","French Polynesia","Tahiti","le_zelee","82",109.1,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1171","French Polynesia","Tahiti","le_zelee","83",98.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1172","French Polynesia","Tahiti","tooth_of_athena","93",109.1,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1173","French Polynesia","Tahiti","tooth_of_athena","94",95.5,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1174","French Polynesia","Tahiti","saint_etienne","103",110.6,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1175","French Polynesia","Tahiti","la_faille","113",112.1,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1176","French Polynesia","Tahiti","la_faille","121",101.5,"intermediate","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1177","French Polynesia","Tahiti","le_zelee","28",125.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1178","French Polynesia","Tahiti","tooth_of_athena","39",124.2,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1179","French Polynesia","Tahiti","saint_etienne","49",128.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1180","French Polynesia","Tahiti","la_faille","59",124.2,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1181","French Polynesia","Tahiti","le_zelee","81",128.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1182","French Polynesia","Tahiti","tooth_of_athena","92",128.8,"high","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1183","French Polynesia","Tahiti","saint_etienne","102",125.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1184","French Polynesia","Tahiti","la_faille","112",128.8,"low","Lower",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
