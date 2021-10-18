@@ -1,4 +1,5 @@
 
+
 ##Library
 
 library(installr)
@@ -48,6 +49,8 @@ library(ggrepel)
 library(RColorBrewer)
 library(data.table)
 library(patchwork)
+library(ggforce)
+library(concaveman)
 
 theme_set(theme_tidybayes() + panel_border())
 
@@ -185,7 +188,7 @@ plot_overall_field_dens / plot_max_field_dens
 
 #plot base maps for sites with pie chart stats ####
 
-world <- map_data("world2")
+world <- map_data("world")
 
 dat_mesophotic_plastics_summ_1km <- dat_mesophotic_plastics_colab_scaled %>% 
    group_by(Country, Meso_zone2) %>% 
@@ -197,19 +200,20 @@ dat_mesophotic_plastics_summ_1km <- dat_mesophotic_plastics_colab_scaled %>%
    select(Country, Meso_zone2, Lat_country, Lon_country, Trash_per_km2) %>%
    spread(Meso_zone2, value = Trash_per_km2) %>% 
    mutate(Total = MCE + Shallow) 
-dat_mesophotic_plastics_summ_1km <- dat_mesophotic_plastics_summ_1km %>% 
+dat_mesophotic_plastics_summ_1km_plot <- dat_mesophotic_plastics_summ_1km %>% 
    filter(Total > 0)
 
-
+pie_scale = 0.0007
  ggplot() +
    theme_void()+
    geom_polygon(data = world, aes(x=long, y = lat, group = group), fill="goldenrod", alpha=1) +
-   coord_map(xlim= c(10,350), ylim= c(-45,45)) +
-   geom_scatterpie(data=dat_mesophotic_plastics_summ_1km,aes(x=Lon_country, y=Lat_country, group=Country, r=Total*.0005), cols=c("MCE", "Shallow"),color=NA, alpha=.8)+
-   geom_text_repel(data=dat_mesophotic_plastics_summ_1km,aes(x=Lon_country, y=Lat_country, label=Country)) +
+    # coord_map(xlim= c(10,350), ylim= c(-45,45)) +
+   geom_scatterpie(data=dat_mesophotic_plastics_summ_1km_plot,aes(x=Lon_country, y=Lat_country, group=Country, r=Total*pie_scale), cols=c("MCE", "Shallow"),color=NA, alpha=.8)+
+   geom_text_repel(data=dat_mesophotic_plastics_summ_1km_plot,aes(x=Lon_country, y=Lat_country, label=Country)) +
+    geom_text_repel(data=dat_mesophotic_plastics_summ_1km,aes(x=Lon_country, y=Lat_country, label=Country)) +
    geom_point(data=dat_mesophotic_plastics_summ_1km %>% filter(Country == "Seychelles"),aes(x=Lon_country, y=Lat_country),  size = 3, shape = 21) +
- #  geom_scatterpie_legend(r = dat_mesophotic_plastics_summ_1km$Total*.0005, x = 290, y = -25, labeller=function(x) x/0.0005) +
- #  coord_fixed(ratio = 1)
+  geom_scatterpie_legend(r = dat_mesophotic_plastics_summ_1km_plot$Total*pie_scale, x = -115, y = -50, n= 4, labeller=function(x) format(round(x/pie_scale, 0), nsmall = 0)) +
+  coord_fixed(ratio = 1, ylim = c(-90,45))
 
 
 
@@ -224,27 +228,28 @@ group_by(Country) %>%
              Lat = median(Lat_site),
              Lon = median(Lon_site)) %>% 
    ungroup()%>%
-   mutate(Per_pop_fishing10km = fishing/Pop_mean_mag10km, 
-          Per_pop_other10km = other/Pop_mean_mag10km,
-          Per_pop_plastics10km = plastics/Pop_mean_mag10km,
-          Per_pop_total_density_10km =  Per_pop_fishing10km + Per_pop_other10km + Per_pop_plastics10km)
+   mutate(fishing_scaled_10km_popmag = fishing/Pop_mean_mag10km, 
+          other_scaled_10km_popmag = other/Pop_mean_mag10km,
+          plastics_scaled_10km_popmag = plastics/Pop_mean_mag10km,
+          total_debris_scaled_10km_popmag =  fishing_scaled_10km_popmag + other_scaled_10km_popmag + plastics_scaled_10km_popmag)
 
 Debris_type_dens_per_pop <- Debris_type_dens_per_pop %>% 
-   filter(Per_pop_total_density_10km > 0)
+   filter(total_debris_scaled_10km_popmag > 0)
+
+dot_scale <- 0.006
 
  ggplot() +
    theme_void()+
    geom_polygon(data = world, aes(x=long, y = lat, group = group), fill="goldenrod", alpha=1) +
-    coord_map(xlim= c(0,360), ylim = c(-45,45))+
-   geom_scatterpie(data=Debris_type_dens_per_pop,aes(x=Lon, y=Lat, group=Country, r=Per_pop_total_density_10km *.005), cols=c("Per_pop_fishing10km", "Per_pop_plastics10km", "Per_pop_other10km"),
+    # coord_map(xlim= c(0,360), ylim = c(-45,45))+
+   geom_scatterpie(data=Debris_type_dens_per_pop,aes(x=Lon, y=Lat, group=Country, r=total_debris_scaled_10km_popmag*dot_scale), cols=c("fishing_scaled_10km_popmag", "other_scaled_10km_popmag", "plastics_scaled_10km_popmag"),
                    color=NA, alpha=.8) +
-    # geom_scatterpie_legend(r = Debris_type_dens_per_pop $Per_pop_total_density_10km *.005, x = 260, y = -18, labeller = function(x) x/0.005) +
-    #  coord_fixed(ratio = 1)
- 
- 
+    geom_text_repel(data=dat_mesophotic_plastics_summ_1km,aes(x=Lon_country, y=Lat_country, label=Country)) +
+    geom_point(data=dat_mesophotic_plastics_summ_1km %>% filter(Country == "Seychelles"),aes(x=Lon_country, y=Lat_country),  size = 3, shape = 21) +
+   # geom_scatterpie_legend(r = Debris_type_dens_per_pop$total_debris_scaled_10km_popmag*dot_scale, x = -115, y = -50, n= 4, labeller=function(x) format(round(x/dot_scale, 0), nsmall = 0)) +
+    coord_fixed(ratio = 1, ylim = c(-55,45))
  
 
- 29/0.005
  
  # Modeling ####
 
@@ -414,8 +419,8 @@ posterior_interval(mod_debris_ID)
 ###########################################
 
 #Read in anthropogenic debris data with size classes
-sizes_debris_dat <- read_csv("~/Trash/Sizes_trash_dat.csv")[,-1]
-
+sizes_debris_dat <- read_csv("~/Trash/dat_mesophotic_plastics_sizes.csv")[,-1]
+sizes_debris_dat$Complexity_3pt
 #create data matrix from dataframe
 dat_total_debris_mat <- sizes_debris_dat %>% 
    rename(Meso_zone3 = Mesozone3) %>% 
@@ -436,14 +441,81 @@ dat_total_debris_useable <- dat_total_debris_useable[-20,]
 
 #Split data in observatoins and site/environment information
 dat_total_debris_obs <- dat_total_debris_useable[,-c(1:9)] 
-dat_total_debris_env <- dat_total_debris_useable[,c(1:9)] 
+dat_total_debris_env <- dat_total_debris_useable[,c(1:9)] %>% 
+   mutate(Meso_zone3 = factor(Meso_zone3, levels = c("Shallow", "Upper", "Lower")),
+          Complexity_3pt = factor(Complexity_3pt, levels = c("low", "intermediate", "high")))
 
 #Create distance matrix with bray curtis dissimialities
 dis <- vegdist(dat_total_debris_obs,"bray")
 
+anova(betadisper(dis, dat_total_debris_env$Meso_zone3))
+anova(betadisper(dis, dat_total_debris_env$Complexity_3pt))
+anova(betadisper(dis, dat_total_debris_env$Depth_m))
+
+permutest(betadisper(dis, dat_total_debris_env$Meso_zone3), pairwise = TRUE)
+permutest(betadisper(dis, dat_total_debris_env$Complexity_3pt), pairwise = TRUE)
+permutest(betadisper(dis, dat_total_debris_env$Depth_m))
+
 #Compare among-group composition by comparing within group distance to centroids to across distance to centroids
 adon <- adonis(dat_total_debris_obs~Meso_zone3*Complexity_3pt,data=dat_total_debris_env,method='bray',permutations = 9999)
 adon1 <- adonis(dat_total_debris_obs~Depth_m*Complexity_3pt,data=dat_total_debris_env,method='bray',permutations = 9999)
+
+levels(dat_total_debris_env$Complexity_3pt)
+
+coef <- coefficients(adon)["(Intercept)",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p33 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with high complexity")
+
+coef <- coefficients(adon)["Complexity_3pt1",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p32 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with intermediate complexity")
+
+
+coef <- coefficients(adon)["Complexity_3pt2",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p31 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant lower mesophotic debris with low complexity")
+
+coef <- coefficients(adon)["Meso_zone31",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p13 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with high complexity")
+
+coef <- coefficients(adon)["Meso_zone31:Complexity_3pt2",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p12 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with intermediate complexity")
+
+
+coef <- coefficients(adon)["Meso_zone31:Complexity_3pt1",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p11 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant shallow debris with low complexity")
+
+
+
+coef <- coefficients(adon)["Meso_zone32",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p23 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with high complexity")
+
+coef <- coefficients(adon)["Meso_zone32:Complexity_3pt2",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p22 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with intermediate complexity")
+
+
+coef <- coefficients(adon)["Meso_zone32:Complexity_3pt1",]
+top.coef <- coef[rev(order(abs(coef)))[1:20]]
+par(mar = c(3, 14, 2, 1))
+p21 <- barplot(sort(top.coef), horiz = T, las = 1, main = "Prominant upper mesophotic debris with low complexity")
+
+
+(p11|p12|p13)/
+   (p21|p22|p23)/
+   (p31|p32|p33)
 
 #Compare among-group similarities in composition
 #by complexity levels
@@ -460,8 +532,8 @@ extract.xyz <- function(obj) {
 }
 
 
-col_vec = c("lightblue", "purple", "blue")
-
+col_vec = c("blue","lightblue",  "purple")
+col_vec2 = c("goldenrod", "darkorange", "darkgoldenrod4")
 
 ord <- metaMDS(dat_total_debris_obs)
 stressplot(ord)
@@ -484,15 +556,17 @@ data.scores$Zones = dat_total_debris_useable$Meso_zone3
 spp.scrs <- as.data.frame(scores(vf, display = "vectors"))
 spp.scrs <- cbind(spp.scrs, Species = rownames(spp.scrs))
 
-p <- ggplot()+
-   geom_point(data = data.scores, aes(x = NMDS1, y = NMDS2, colour = Zones, shape = Complexity)) +
+mds1 <- ggplot()+
    scale_colour_manual(values = col_vec) + 
-   coord_fixed() + ## need aspect ratio of 1!
+   scale_fill_manual(values = col_vec) + 
+   coord_fixed() + # need aspect ratio of 1
+   geom_mark_hull(data = data.scores,aes(x = NMDS1, y = NMDS2,fill = Zones, colour = Zones), concavity = 10, expand = unit(1, "mm"))+
+   geom_point(data = data.scores, aes(x = NMDS1, y = NMDS2, colour = Zones, shape = Complexity)) +
    geom_segment(data = spp.scrs,
-                aes(x = 0, xend = NMDS1*2, y = 0, yend = NMDS2*2),
-                arrow = arrow(length = unit(0.25, "cm")), colour = "grey") +
-   geom_text(data = spp.scrs, aes(x = NMDS1*2.2, y = NMDS2*2.2, label = Species),
-             size = 2,check_overlap = TRUE, colour = "black")+
+                aes(x = 0, xend = NMDS1*2.4, y = 0, yend = NMDS2*2.4),
+                arrow = arrow(length = unit(0.25, "cm")), colour = "white") +
+   geom_text_repel(data = spp.scrs, aes(x = NMDS1*2.7, y = NMDS2*2.7, label = Species),
+             size = 3,check_overlap = F, colour = "black")+
    theme(axis.title = element_text(size = 10, face = "bold", colour = "grey30"), 
          panel.background = element_blank(), panel.border = element_rect(fill = NA, colour = "grey30"), 
          legend.key = element_blank(), 
@@ -500,6 +574,23 @@ p <- ggplot()+
          legend.text = element_text(size = 9, colour = "grey30")) +
    labs(colour = "Zones", shape = "Complexity")
 
-p
+mds2 <- ggplot()+
+   scale_colour_manual(values = col_vec2) + 
+   scale_fill_manual(values = col_vec2) + 
+   coord_fixed() + # need aspect ratio of 1
+   geom_mark_hull(data = data.scores,aes(x = NMDS1, y = NMDS2,fill = Complexity, colour = Complexity), concavity = 10, expand = unit(1, "mm"))+
+   geom_point(data = data.scores, aes(x = NMDS1, y = NMDS2, colour = Complexity, shape = Zones)) +
+   geom_segment(data = spp.scrs,
+                aes(x = 0, xend = NMDS1*2.4, y = 0, yend = NMDS2*2.4),
+                arrow = arrow(length = unit(0.25, "cm")), colour = "white") +
+   geom_text_repel(data = spp.scrs, aes(x = NMDS1*2.7, y = NMDS2*2.7, label = Species),
+                   size = 3,check_overlap = F, colour = "black")+
+   theme(axis.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+         panel.background = element_blank(), panel.border = element_rect(fill = NA, colour = "grey30"), 
+         legend.key = element_blank(), 
+         legend.title = element_text(size = 10, face = "bold", colour = "grey30"), 
+         legend.text = element_text(size = 9, colour = "grey30")) +
+   labs(colour = "Complexity", shape = "Zones")
 
+mds1/mds2
 
