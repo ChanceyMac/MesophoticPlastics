@@ -1,64 +1,61 @@
 
 ##Library
 
-library(installr)
-library(rlang)
-library(brms)
-library(readr)
-library(sdmpredictors)
-library(plyr)
-library(dplyr)
-library(tidyr)
-library(tidyverse)
-library(geosphere)
-library(maps)
-library(ggrepel)
-library(mapproj)
-library(raster)
-library(patchwork)
-library(scatterpie)
-library(viridis)
-library(tidyverse)
-library(forcats)
-library(glmmTMB)
-library(sjPlot)
-library(performance)
-library(sjstats)
-library(DHARMa)
-library(emmeans)
-library(brms)
-library(stringr)
-library(rethinking)
-library(tidybayes)
-library(bayestest)
-library(bayesplot)
-library(vegan)
-library(magrittr)
-library(dplyr)
-library(purrr)
-library(forcats)
-library(tidyr)
-library(modelr)
-library(ggdist)
-library(tidybayes)
-library(ggplot2)
-library(rstan)
-library(brms)
-library(ggrepel)
-library(RColorBrewer)
-library(data.table)
-library(patchwork)
-library(ggforce)
-library(concaveman)
+library("installr")
+library("rlang")
+library("brms")
+library("readr")
+library("sdmpredictors")
+library("plyr")
+library("dplyr")
+library("tidyr")
+library("tidyverse")
+library("geosphere")
+library("maps")
+library("ggrepel")
+library("mapproj")
+library("raster")
+library("patchwork")
+library("scatterpie")
+library("viridis")
+library("tidyverse")
+library("forcats")
+library("glmmTMB")
+library("sjPlot")
+library("performance")
+library("sjstats")
+library("DHARMa")
+library("emmeans")
+library("brms")
+library("stringr")
+library("rethinking")
+library("tidybayes")
+library("bayestest")
+library("bayesplot")
+library("vegan")
+library("magrittr")
+library("dplyr")
+library("purrr")
+library("forcats")
+library("tidyr")
+library("modelr")
+library("ggdist")
+library("rstan")
+library("RColorBrewer")
+library("data.table")
+library("patchwork")
+library("ggforce")
+library("concaveman")
+
 
 theme_set(theme_tidybayes() + panel_border())
 
 #read in plastics dataset
 
 
-dat_mesophotic_plastics_colab_scaled <- read_csv("/home/cmacdonald/Trash/dat_mesophotic_plastics_scaled.csv")[,-1] 
+dat_mesophotic_plastics_colab_scaled <- read.csv("~/MesophoticPlastics/dat_mesophotic_plastics_scaled.csv")[,-1] 
 
-dat_mesophotic_plastics_colab_not_scaled <- read_csv("/home/cmacdonald/Trash/dat_mesophotic_plastics_not_scaled.csv") [,-1]
+dat_mesophotic_plastics_colab_not_scaled <- read.csv("~/MesophoticPlastics/dat_mesophotic_plastics_not_scaled.csv") [,-1]
 
 
 #Subset consumer plastics
@@ -81,9 +78,9 @@ dat_mesophotic_plastics_colab_scaled_non_plastics <- dat_mesophotic_plastics_col
 
 #Subset all plastics
 dat_mesophotic_plastics_colab_scaled_all_plastics <- dat_mesophotic_plastics_colab_scaled %>%  
-   mutate(Trash_group = fct_collapse(Trash_group, 
-                                     plastics = c("plastics", "fishing"))) %>% 
-   filter(Trash_group == "plastics") %>% 
+   mutate(Trash_group = forcats::fct_collapse(Trash_group, 
+                                     all_plastics = c("plastics", "fishing"))) %>% 
+   filter(Trash_group == "all_plastics") %>% 
    dplyr::group_by(across(c(-Trash_per_m2, -Trash_count))) %>% 
    dplyr::summarise(Trash_count = sum(Trash_count), Trash_per_m2 = sum(Trash_per_m2)) 
 
@@ -105,19 +102,27 @@ dat_mesophotic_plastics_colab_scaled_total <- dat_mesophotic_plastics_colab_scal
 
 
 #Country level data summaries
-t1 <- dat_mesophotic_plastics_colab_scaled_non_plastics %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), non_plastics_count = sum(Trash_count)) %>% mutate(non_plastics_Km2 = (non_plastics_count/area_sampled_m2)*1e+6)
-t2 <- dat_mesophotic_plastics_colab_scaled_all_plastics %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), all_plastics_count = sum(Trash_count)) %>% mutate(all_plastics_Km2 = (all_plastics_count/area_sampled_m2)*1e+6)
-t3 <-dat_mesophotic_plastics_colab_scaled_consumer_plastics %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), consumer_plastics_count = sum(Trash_count)) %>% mutate(consumer_plastics_Km2 = (consumer_plastics_count/area_sampled_m2)*1e+6)
-t4 <-dat_mesophotic_plastics_colab_scaled_fishing %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), fishing_plastics_count = sum(Trash_count)) %>% mutate(fishing_plastics_Km2 = (fishing_plastics_count/area_sampled_m2)*1e+6)
-t5 <-dat_mesophotic_plastics_colab_scaled_total %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), total_debris_count = sum(Trash_count)) %>% mutate(total_debris_Km2 = (total_debris_count/area_sampled_m2)*1e+6)
+t1 <- dat_mesophotic_plastics_colab_scaled_non_plastics %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), non_plastics_count = sum(Trash_count)) %>% mutate(non_plastics_Km2 = (non_plastics_count/area_sampled_m2)*1e+6, Meso_zone2 = "All_Zones") %>% dplyr::select(Country, Meso_zone2, everything())
+t2 <- dat_mesophotic_plastics_colab_scaled_all_plastics %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), all_plastics_count = sum(Trash_count)) %>% mutate(all_plastics_Km2 = (all_plastics_count/area_sampled_m2)*1e+6, Meso_zone2 = "All_Zones") %>% dplyr::select(Country, Meso_zone2, everything())
+t3 <-dat_mesophotic_plastics_colab_scaled_consumer_plastics %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), consumer_plastics_count = sum(Trash_count)) %>% mutate(consumer_plastics_Km2 = (consumer_plastics_count/area_sampled_m2)*1e+6, Meso_zone2 = "All_Zones") %>% dplyr::select(Country, Meso_zone2, everything())
+t4 <-dat_mesophotic_plastics_colab_scaled_fishing %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), fishing_plastics_count = sum(Trash_count)) %>% mutate(fishing_plastics_Km2 = (fishing_plastics_count/area_sampled_m2)*1e+6, Meso_zone2 = "All_Zones") %>% dplyr::select(Country, Meso_zone2, everything())
+t5 <-dat_mesophotic_plastics_colab_scaled_total %>% group_by(Country) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), total_debris_count = sum(Trash_count)) %>% mutate(total_debris_Km2 = (total_debris_count/area_sampled_m2)*1e+6, Meso_zone2 = "All_Zones") %>% dplyr::select(Country, Meso_zone2, everything())
 
-plyr::join_all(list(t2, t4, t3, t1, t5), type='left') 
+
+#Country level data summaries among zones
+t1z <- dat_mesophotic_plastics_colab_scaled_non_plastics %>% group_by(Country, Meso_zone2) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), non_plastics_count = sum(Trash_count)) %>% mutate(non_plastics_Km2 = (non_plastics_count/area_sampled_m2)*1e+6)
+t2z <- dat_mesophotic_plastics_colab_scaled_all_plastics %>% group_by(Country, Meso_zone2) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), all_plastics_count = sum(Trash_count)) %>% mutate(all_plastics_Km2 = (all_plastics_count/area_sampled_m2)*1e+6)
+t3z <-dat_mesophotic_plastics_colab_scaled_consumer_plastics %>% group_by(Country, Meso_zone2) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), consumer_plastics_count = sum(Trash_count)) %>% mutate(consumer_plastics_Km2 = (consumer_plastics_count/area_sampled_m2)*1e+6)
+t4z <-dat_mesophotic_plastics_colab_scaled_fishing %>% group_by(Country, Meso_zone2) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), fishing_plastics_count = sum(Trash_count)) %>% mutate(fishing_plastics_Km2 = (fishing_plastics_count/area_sampled_m2)*1e+6)
+t5z <-dat_mesophotic_plastics_colab_scaled_total %>% group_by(Country, Meso_zone2) %>% summarise(length_sampled_m = sum( Length_m ),area_sampled_m2 = sum(Area_m2), total_debris_count = sum(Trash_count)) %>% mutate(total_debris_Km2 = (total_debris_count/area_sampled_m2)*1e+6)
+
+# plyr::join_all(list(t2, t4, t3, t1, t5), type='left') 
 
 Debris_sum_stats <- left_join(t2, t4, by = c("Country")) %>% 
-   left_join(.,t3, by = c("Country"))%>% 
-   left_join(.,t1, by = c("Country"))%>% 
+   left_join(.,t3, by = c("Country")) %>% 
+   left_join(.,t1, by = c("Country")) %>% 
    left_join(.,t5, by = c("Country"))  %>% 
-   select(Country, length_sampled_m, area_sampled_m2, all_plastics_count, 
+   dplyr::select(Country, Meso_zone2, length_sampled_m, area_sampled_m2, all_plastics_count, 
           fishing_plastics_count, 
           consumer_plastics_count, 
           non_plastics_count, 
@@ -127,11 +132,26 @@ Debris_sum_stats <- left_join(t2, t4, by = c("Country")) %>%
           consumer_plastics_Prop = consumer_plastics_count/total_debris_count,
           non_plastics_Prop = non_plastics_count/total_debris_count)
 
-#create datatable in whcih to calculate total summary statistics 
+
+Debris_sum_stats_z <- left_join(t2z, t4z, by = c("Country", "Meso_zone2")) %>% 
+   left_join(.,t3z, by = c("Country", "Meso_zone2")) %>% 
+   left_join(.,t1z, by = c("Country", "Meso_zone2")) %>% 
+   left_join(.,t5z, by = c("Country", "Meso_zone2"))  %>% 
+   dplyr::select(Country, Meso_zone2, length_sampled_m, area_sampled_m2, all_plastics_count, 
+                 fishing_plastics_count, 
+                 consumer_plastics_count, 
+                 non_plastics_count, 
+                 total_debris_count, all_plastics_Km2,fishing_plastics_Km2,consumer_plastics_Km2,non_plastics_Km2,total_debris_Km2)%>% 
+   mutate(all_plastics_Prop = all_plastics_count/total_debris_count,
+          fishing_plastics_Prop = fishing_plastics_count/total_debris_count,
+          consumer_plastics_Prop = consumer_plastics_count/total_debris_count,
+          non_plastics_Prop = non_plastics_count/total_debris_count)
+#create datatable in which to calculate total summary statistics 
 Debris_sum_stat_total <- data.frame()
 Debris_sum_stat_total[1,1] <- "Total_all_countries" 
-Debris_sum_stat_total[1,2:13] <- Debris_sum_stats[,2:13] %>% colSums(na.rm = T)
-colnames(Debris_sum_stat_total) <- colnames(Debris_sum_stats[,1:13])
+Debris_sum_stat_total[1,2] <- "All_Zones" 
+Debris_sum_stat_total[1,3:14] <- Debris_sum_stats[,3:14] %>% colSums(na.rm = T)
+colnames(Debris_sum_stat_total) <- colnames(Debris_sum_stats[,1:14])
 
 #calculate total summary statistics and density of anthropogenic debris per kilometer squared
 Debris_sum_stat_total <- Debris_sum_stat_total %>% 
@@ -145,8 +165,8 @@ Debris_sum_stat_total <- Debris_sum_stat_total %>%
           non_plastics_Km2 = (non_plastics_count/area_sampled_m2)*1e+6,
           total_debris_Km2 = (total_debris_count/area_sampled_m2)*1e+6)
 
-#join country-level and total summary atatistis; Calculate density of anthropogenic debris per football field area
-Debris_sum_stat_out <- bind_rows(Debris_sum_stats, Debris_sum_stat_total) %>% 
+#join country-level and total summary statistis; Calculate density of anthropogenic debris per football field area
+Debris_sum_stat_out <- bind_rows(Debris_sum_stats,Debris_sum_stats_z, Debris_sum_stat_total) %>% 
    mutate(all_plastics_per_football_field = (all_plastics_count/area_sampled_m2)*7140,
           fishing_plastics_per_football_field = (fishing_plastics_count/area_sampled_m2)*7140,
           consumer_plastics_per_football_field = (consumer_plastics_count/area_sampled_m2)*7140,
@@ -189,34 +209,38 @@ plot_overall_field_dens / plot_max_field_dens
 
 world <- map_data("world")
 
-dat_mesophotic_plastics_summ_1km <- dat_mesophotic_plastics_colab_scaled %>% 
-   group_by(Country, Meso_zone2) %>% 
-   summarise(Total_debris_count = sum(Trash_count), Total_area_m2 = sum(Area_m2),
-             Lat_country = mean(Lat_site ), Lon_country = mean(Lon_site)) %>% 
+dat_coord<- dat_mesophotic_plastics_colab_scaled %>% 
    group_by(Country) %>% 
-   mutate(Lat_country = mean(Lat_country), Lon_country = mean(Lon_country)) %>% 
-   mutate(Trash_per_km2 = Total_debris_count/Total_area_m2*1e+6) %>% 
-   select(Country, Meso_zone2, Lat_country, Lon_country, Trash_per_km2) %>%
-   spread(Meso_zone2, value = Trash_per_km2) %>% 
-   mutate(Total = MCE + Shallow) 
-dat_mesophotic_plastics_summ_1km_plot <- dat_mesophotic_plastics_summ_1km %>% 
-   filter(Total > 0)
+   summarise(Lat_country = mean(Lat_site ), Lon_country = mean(Lon_site)) %>% 
+   dplyr::select(Country,Lat_country, Lon_country)
 
-pie_scale = 0.0007
+dat_plastics_summ_total_1km_plot <- left_join(Debris_sum_stat_out, dat_coord) %>% filter(Meso_zone2 == "All_Zones", Country != "Total_all_countries") 
+dat_total_debris_Km2 <- dat_plastics_summ_total_1km_plot %>% dplyr::select(Country, total_debris_Km2)
+dat_plastics_summ_zones <- left_join(Debris_sum_stat_out, dat_coord) %>% filter(Meso_zone2 != "All_Zones") %>% 
+   select(Country, Meso_zone2, total_debris_Km2, Lat_country, Lon_country) %>% 
+   group_by(Country) %>% 
+   spread(value = total_debris_Km2, Meso_zone2) 
+
+dat_plastics_summ_zones_1km_plot <- left_join(dat_plastics_summ_zones, dat_total_debris_Km2)
+
+glimpse(dat_plastics_summ_zones_1km_plot )
+glimpse(dat_plastics_summ_total_1km_plot)
+glimpse(Debris_sum_stat_out)
+
+pie_scale = 0.0005
  ggplot() +
    theme_void()+
    geom_polygon(data = world, aes(x=long, y = lat, group = group), fill="goldenrod", alpha=1) +
     # coord_map(xlim= c(10,350), ylim= c(-45,45)) +
-   geom_scatterpie(data=dat_mesophotic_plastics_summ_1km_plot,aes(x=Lon_country, y=Lat_country, group=Country, r=Total*pie_scale), cols=c("MCE", "Shallow"),color=NA, alpha=.8)+
-   geom_text_repel(data=dat_mesophotic_plastics_summ_1km_plot,aes(x=Lon_country, y=Lat_country, label=Country)) +
-    geom_text_repel(data=dat_mesophotic_plastics_summ_1km,aes(x=Lon_country, y=Lat_country, label=Country)) +
-   geom_point(data=dat_mesophotic_plastics_summ_1km %>% filter(Country == "Seychelles"),aes(x=Lon_country, y=Lat_country),  size = 3, shape = 21) +
-  geom_scatterpie_legend(r = dat_mesophotic_plastics_summ_1km_plot$Total*pie_scale, x = -115, y = -50, n= 4, labeller=function(x) format(round(x/pie_scale, 0), nsmall = 0)) +
+   geom_scatterpie(data=dat_plastics_summ_zones_1km_plot,aes(x=Lon_country, y=Lat_country, group=Country, r=total_debris_Km2*pie_scale), cols=c("MCE", "Shallow"),color=NA, alpha=.8)+
+   geom_text_repel(data=dat_plastics_summ_zones_1km_plot,aes(x=Lon_country, y=Lat_country, label=Country)) +
+   geom_point(data=dat_plastics_summ_zones_1km_plot %>% filter(Country == "Seychelles"),aes(x=Lon_country, y=Lat_country),  size = 3, shape = 21) +
+  geom_scatterpie_legend(r = dat_plastics_summ_zones_1km_plot$total_debris_Km2*pie_scale, x = -90, y = -45, n= 4, labeller=function(x) format(round(x/pie_scale, 0), nsmall = 0)) +
   coord_fixed(ratio = 1, ylim = c(-90,45))
 
 
 
-Debris_type_dens_per_pop <-dat_mesophotic_plastics_colab_not_scaled %>% 
+Debris_type_dens_per_pop <- dat_mesophotic_plastics_colab_not_scaled %>% 
    group_by(Country) %>% 
    spread(value = Trash_count, Trash_group) %>%
 group_by(Country) %>%
@@ -235,6 +259,8 @@ group_by(Country) %>%
 Debris_type_dens_per_pop <- Debris_type_dens_per_pop %>% 
    filter(total_debris_scaled_10km_popmag > 0)
 
+glimpse(Debris_type_dens_per_pop)
+
 dot_scale <- 0.006
 
  ggplot() +
@@ -243,8 +269,8 @@ dot_scale <- 0.006
     # coord_map(xlim= c(0,360), ylim = c(-45,45))+
    geom_scatterpie(data=Debris_type_dens_per_pop,aes(x=Lon, y=Lat, group=Country, r=total_debris_scaled_10km_popmag*dot_scale), cols=c("fishing_scaled_10km_popmag", "other_scaled_10km_popmag", "plastics_scaled_10km_popmag"),
                    color=NA, alpha=.8) +
-    geom_text_repel(data=dat_mesophotic_plastics_summ_1km,aes(x=Lon_country, y=Lat_country, label=Country)) +
-    geom_point(data=dat_mesophotic_plastics_summ_1km %>% filter(Country == "Seychelles"),aes(x=Lon_country, y=Lat_country),  size = 3, shape = 21) +
+    # geom_text_repel(data=dat_plastics_summ_zones_1km_plot,aes(x=Lon_country, y=Lat_country, label=Country)) +
+    geom_point(data=dat_plastics_summ_zones_1km_plot %>% filter(Country == "Seychelles"),aes(x=Lon_country, y=Lat_country),  size = 3, shape = 21) +
    # geom_scatterpie_legend(r = Debris_type_dens_per_pop$total_debris_scaled_10km_popmag*dot_scale, x = -115, y = -50, n= 4, labeller=function(x) format(round(x/dot_scale, 0), nsmall = 0)) +
     coord_fixed(ratio = 1, ylim = c(-55,45))
  
